@@ -1,1 +1,229 @@
-# enhansome-self-sovereign-identity
+<!--lint disable awesome-toc-->
+
+# Awesome Self-Sovereign Identity with stars
+
+> A curated list of self-sovereign identity resources.
+
+Self-sovereign identity (SSI) is a term used to describe the digital movement that recognizes an individual should own and control their identity without the intervening administrative authorities. SSI allows people to interact in the digital world with the same freedom and capacity for trust as they do in the offline world (by [The Sovrin Foundation](https://sovrin.org/faq/what-is-self-sovereign-identity)).
+
+#### ♥ Contributions welcome! Read the [contribution guidelines](contributing.md) first
+
+## Contents
+
+<!--lint disable awesome-list-item-->
+
+* [🌟 Getting Started](#-getting-started)
+* [🤔 Philosophy & Concepts](#-philosophy--concepts)
+* [🏛️ Political, Legal and Ethical Implications](#️-political-legal-and-ethical-implications)
+* [💁‍♂️ Products & Services](#️-products--services)
+* [🛠 Tools & Technologies](#-tools--technologies)
+* [🎓 Tutorials & Guides](#-tutorials--guides)
+* [🎮 Demo's](#-demos)
+* [📡 Networks](#-networks)
+* [📚 Resources](#-resources)
+* [📄 Technical Specifications](#-technical-specifications)
+* [🎧 Podcasts](#-podcasts)
+* [📆 Events](#-events)
+* [📦 Stale Projects](#-stale-projects)
+* [🖋️ License](#️-license)
+
+<!--lint enable awesome-list-item-->
+
+## 🌟 Getting Started
+
+Completely new to self-sovereign identity with no clue where to start? Here is one article, one video and one book to get you started.
+
+* [Self-Sovereign Identity (SSI) Explained](https://www.youtube.com/watch?v=kJAapPG_jBY) - Illustrated video that explains SSI in 3 minutes using two examples.
+* [Self-Sovereign Identity: Decentralized digital identity and verifiable credentials](https://livebook.manning.com/book/self-sovereign-identity/welcome/v-11/) - Manning book on SSI containing both high- and low-level concepts and explanations.
+* [Introduction to Self-Sovereign Identity](https://walt.id/decentralized-identity-explained/self-sovereign-identity-ssi)
+
+Next step is to check out some other beginners guides and video's in the Philosophy & Concepts section below.
+
+## 🤔 Philosophy & Concepts
+
+To understand the philosophy of self-sovereign identity these starting guides and explanations have been collected.
+
+* [Web Of Trust Self-Sovereign Identity Repository](https://github.com/WebOfTrustInfo/self-sovereign-identity) ⭐ 154 | 🐛 5 | 📅 2022-12-07 - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles.
+* [Why Self-Sovereign Identity is Important](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/convincing-dad.md) ⭐ 98 | 🐛 1 | 📅 2022-05-09 - How to convince your dad, your sister, your nephew and your best friend that SSI is a good idea.
+* [A Technology-free definition of SSI](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf) ⭐ 1 | 🐛 0 | 🌐 HTML | 📅 2016-10-17 - Topic paper for Rebooting Web of Trust III.
+* [A Beginner's Guide to Self-Sovereign Identity](https://domilabs.io/beginners-guide-ssi/) - Non technical article on the concept of SSI and its pillars and values.
+* [Decentralized Identity Explained](https://www.youtube.com/watch?v=Ew-_F-OtDFI) - An explanation of what decentralized identity is.
+* [Decentralized Identity — Owning It!](https://medium.com/p/94987f97649f) - An intro on decentralized identities and a tutorial on using Veramo CLI.
+* [The Path To Self-Sovereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) - Article that originally explained and coined the term self-sovereign identity, starts with different identity models as a whole.
+* [7 Myths of Self-sovereign Identity](https://medium.com/evernym/7-myths-of-self-sovereign-identity-67aea7416b1) - Seven myths of SSI by Timmothy Ruff.
+* [19 FAQs on Verifiable Credentials and Self-Sovereign Identity](https://academy.affinidi.com/faqs-on-verifiable-credentials-and-self-sovereign-identity-3c3a505878bc) - Definition based FAQ that explains important SSI terminology and shows what a DID and VC actually look like.
+* [Ideology & Architecture of Self-Sovereign Identity](https://www.youtube.com/watch?v=JzM_Brpk95E\&feature=youtu.be) - Insights and reflections around historical, technological and ethical aspects of SSI.
+* [The Invisible Man, TEDxAmsterdam](https://www.youtube.com/watch?v=6OfcbgcxGNM) - The story of Toufic El-Rjula, a refugee that lost his birth certificate. He now pledges for digital identities using SSI.
+* [DIF FAQ](https://identity.foundation/faq/) - The Decentralized Identity Foundation's general-purpose knowledge base, uses color coding to indicate presumed level of familiarity.
+* [eSSIF-Lab Mental Models](https://essif-lab.github.io/framework/docs/essifLab-pattern-list) - A description of various mental models by eSSIF-Lab.
+* [CanDID: Can-Do Decentralized Identity](https://eprint.iacr.org/2020/934.pdf) - A highly-regarded academic publication featured in a leading venue.
+
+## 🏛️ Political, Legal and Ethical Implications
+
+* [The Growth Factors of Self-Sovereign Identity Solutions in Europe](https://www.researchgate.net/publication/349899411_The_growth_factors_of_self-sovereign_identity_solutions_in_Europe) - Thesis on the business, technology, legal and governance aspects of SSI.
+* [Sovereignty, privacy, and ethics in blockchain-based identity management systems](https://research.tudelft.nl/en/publications/sovereignty-privacy-and-ethics-in-blockchain-based-identity-manag) - Article about the ethics of self-sovereign identity systems.
+* [Self-Sovereignity for Refugees? The Contested Horizons of Digital Identity](https://www.tandfonline.com/doi/pdf/10.1080/14650045.2020.1823836) - Article that examines the implications of SSI for border politics and migration management.
+
+## 💁‍♂️ Products & Services
+
+What projects are out there using self-sovereign identity.
+
+* [List of Global Adoption (projects and their status)](https://www.notion.so/Global-Verifiable-Credential-Adoption-78c7e4c5f2a34a228a55d03db54ab399)
+
+Identity wallets for storing verifiable credentials.
+
+* [SSI Snap](https://github.com/blockchain-lab-um/ssi-snap/) ⭐ 58 | 🐛 18 | 🌐 TypeScript | 📅 2026-03-31 - An extension for MetaMask that adds SSI capabilities (DIDs and VCs) by Blockchain Lab:UM.
+* [Paradym Wallet](https://github.com/animo/paradym-wallet) ⭐ 56 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-10 - Mobile wallet to seamlessly manage and present your digital credentials.
+* [BC Wallet](https://www2.gov.bc.ca/gov/content/governments/government-id/bc-wallet#get) - A mobile wallet built and maintained by the Government of British Columbia, Canada.
+* [Lissi Wallet](https://lissi.id/mobile) - A mobile wallet by Lissi.
+* [Trinsic Wallet](https://trinsic.id/trinsic-wallet/) - A mobile wallet by Trinsic.
+
+Software development kits for building an identity wallet.
+
+* [Trinsic Mobile Wallet SDK](https://trinsic.id/mobile-wallet-sdk/) - A SDK by Trinsic to extend self-sovereign identity to mobile app.
+* [Walt.id Wallet Infrastructure](https://walt.id/wallet-infrastructure) - APIs and SDKs to build embedded, white-label, or mobile wallets.
+
+Notable self-sovereign identity products and services that are in production.
+
+* [esatus SeLF](https://self-ssi.com/en/) - An institutional agent by esatus.
+* [Evernym Products and Services](https://www.evernym.com/products/) - Various self-sovereign identity projects by Evernym, such as a mobile wallet, a mobile wallet SDK and an end-to-end SSI platform.
+* [Lissi Cloud Agent](https://lissi.id/institutions) - An institutional agent by Lissi hosted in the cloud.
+* [Paradym](https://paradym.id/) - SaaS platform for building your SSI solutions.
+* [Trinsic](https://trinsic.id/) - An end-to-end self sovereign identity platform by Trinsic.
+* [VC on Internet Identity](https://github.com/dfinity/internet-identity/blob/main/docs/vc-spec.md) ⭐ 532 | 🐛 50 | 🌐 Rust | 📅 2026-08-12 - A wallet-less and privacy preserving VC protocol built on top Internet Identity on ICP.
+* [Veramo](https://veramo.io/) - APIs for self-sovereign identity.
+* [walt.id](https://walt.id/identity-infrastructure) - Build end-to-end digital identity use cases or applications with ease.
+
+## 🛠 Tools & Technologies
+
+* [Universal Resolver](https://github.com/decentralized-identity/universal-resolver) ⭐ 643 | 🐛 74 | 🌐 Java | 📅 2026-08-13 - Universal DID resolver implementation and method specific drivers.
+* [ACA-Py](https://github.com/openwallet-foundation/acapy) ⭐ 489 | 🐛 155 | 🌐 Python | 📅 2026-08-13 - Foundation for building decentralized identity applications and services running in non-mobile environments.
+* [Credo](https://github.com/openwallet-foundation/credo-ts) ⭐ 350 | 🐛 297 | 🌐 TypeScript | 📅 2026-08-10 - TypeScript framework for building decentralized identity and verifiable credential solutions.
+* [IOTA Identity](https://github.com/iotaledger/identity.rs) ⭐ 349 | 🐛 116 | 🌐 Rust | 📅 2026-08-12 - Implementation of the decentralized identity standards such as DIDs and VCs by W3C for the IOTA Tangle.
+* [walt.id Identity Lib](https://github.com/walt-id/waltid-identity) ⭐ 301 | 🐛 51 | 🌐 Kotlin | 📅 2026-08-12 - All-in-one open-source identity and wallet toolkit.
+* [DID Resolver](https://github.com/decentralized-identity/did-resolver) ⭐ 232 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-10 - A simple common interface for JavaScript applications to resolve DID documents from Decentralized Identifiers (DIDs).
+  * [ethr DID Resolver](https://github.com/decentralized-identity/ethr-did-resolver) ⭐ 237 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-12 - Use Ethereum addresses as fully self managed Decentralized Identifiers and wrap them in a DID Document.
+  * [web DID Resolver](https://github.com/decentralized-identity/web-did-resolver) ⭐ 101 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-10 - Use domains accessed through https as Decentralized Identifiers and retrieve an associated DID Document.
+* [vc-js](https://github.com/digitalbazaar/vc-js) ⭐ 216 | 🐛 29 | 🌐 JavaScript | 📅 2026-02-05 - A JavaScript library for issuing and verifying Verifiable Credentials.
+* [Bifold Wallet](https://github.com/openwallet-foundation/bifold-wallet) ⭐ 203 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-11 - An open source Aries mobile agent build with React Native and Aries Framework JavaScript.
+* [DID](https://github.com/ceramicnetwork/js-did) ⭐ 102 | 🐛 19 | 🌐 TypeScript | 📅 2024-12-19 - A simple library to interact with DIDs that conform to the DID-provider interface.
+* [OIDC4VCI](https://github.com/Sphereon-Opensource/OID4VCI) ⭐ 92 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-03 - A TypeScript library for OpenID for Verifiable Credential Issuance by Sphereon.
+* [AnonCreds RS](https://github.com/hyperledger/anoncreds-rs) ⭐ 88 | 🐛 31 | 🌐 Rust | 📅 2026-01-07 - An implementation of the [AnonCreds credential format](https://hyperledger.github.io/anoncreds-spec/) in Rust.
+* [Universal Registrar](https://github.com/decentralized-identity/universal-registrar) ⭐ 87 | 🐛 7 | 🌐 Java | 📅 2026-08-11 - Universal DID registrar implementation and method specific drivers.
+* [sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js) ⭐ 81 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-18 - A TypeScript implementation of the SD-JWT & SD-JWT-VC specification from Open Wallet Foundation.
+* [did-key.rs](https://github.com/decentralized-identity/did-key.rs) ⭐ 50 | 🐛 8 | 🌐 Rust | 📅 2024-03-18 - Provide basic support for `did:key` methods in Rust.
+* [DID Client (did-io)](https://github.com/digitalbazaar/did-io) ⭐ 46 | 🐛 9 | 🌐 JavaScript | 📅 2026-05-29 - A DID resolution library for JavaScript.
+* [DCQL](https://github.com/openwallet-foundation-labs/dcql-ts) ⭐ 28 | 🐛 8 | 🌐 TypeScript | 📅 2026-06-01 - TypeScript implementation of the Digital Credentials Query Language.
+* [OpenID for Verifiable Credentials](https://github.com/openwallet-foundation-labs/oid4vc-ts) ⭐ 28 | 🐛 31 | 🌐 TypeScript | 📅 2026-08-11 - TypeScript library implementation of OpenID4VC and OpenID4VCI protocols.
+* [DIDComm Mediator](https://github.com/openwallet-foundation/didcomm-mediator-credo) ⭐ 17 | 🐛 13 | 🌐 TypeScript | 📅 2026-07-22 - An easy to set-up Aries and DIDComm v1 mediator built on Credo.
+* [mDOC](https://github.com/animo/mdoc) ⭐ 13 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-10 - TypeScript library to work with ISO 18013-5 and ISO 18013-7 mDOC (and mDL).
+* [OpenID Federation](https://github.com/openwallet-foundation-labs/openid-federation-ts) ⭐ 8 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-11 - TypeScript implementation of the OpenID Federation.
+* [React Native BLE DIDComm](https://github.com/animo/react-native-ble-didcomm) ⭐ 6 | 🐛 5 | 🌐 TypeScript | 📅 2025-01-06 - SDK for exchanging DIDComm messages over Bluetooth Low Energy for iOS & Android.
+* [Expo Digital Credentials API](https://github.com/animo/expo-digital-credentials-api) ⭐ 4 | 🐛 3 | 🌐 TypeScript | 📅 2026-05-22 - Expo Module to automatically set up and configure Digital Credentials API for Android apps.
+* [Expo mDOC Data Transfer](https://github.com/animo/expo-mdoc-data-transfer) ⭐ 4 | 🐛 13 | 🌐 Kotlin | 📅 2026-05-25 - Expo Module for ISO 18013-5 Data Transfer.
+* [DCQL Playground](https://github.com/animo/dcql-playground) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-04-13 - A playground to test DCQL queries against credentials.
+* [Expo Secure Environment](https://github.com/animo/expo-secure-environment) ⭐ 1 | 🐛 7 | 🌐 TypeScript | 📅 2026-05-22 - Expo Module for cryptographic operations using the devices Secure Environment behind biometric authentication.
+* [mDOC Debugger](https://paradym.id/tools/mdoc) - An online mDOC debugger.
+* [SD-JWT VC Debugger](https://paradym.id/tools/sd-jwt-vc) - An online SD-JWT VC debugger.
+* [sdjwt.co](https://www.sdjwt.co/) - A online tool that allows you to decode, verify, and generate SD-JWTs.
+* [sdjwt.info](https://www.sdjwt.info/) - A playground environment for decoding and verifying SD-JWTs.
+
+## 🎓 Tutorials & Guides
+
+* [Aries Framework JavaScript Tutorials](https://www.youtube.com/playlist?list=PLopHpZBbk8wM4FRFZl3LXeAhz6fbX4_lk) - A playlist of useful beginner tutorials on how to use Aries Framework JavaScript.
+* [MATTR Learn](https://learn.mattr.global/) - Various tutorials by MATTR on how to work with their digital credentials platform.
+
+## 🎮 Demo's
+
+High level:
+
+* [Lissi Demo](https://www.lissi.id/eudi-wallet-demo-start) - Check into a hotel or enroll in a class in Muster University to experience our favorite wallet for credential storage from our friends at Lissi.
+* [walt.id Demo](https://portal.walt.id/) - Issue and verify credentials via the walt.id portal.
+* [SSI Snap demo](https://medium.com/@blockchainlabum/its-time-to-prove-your-worth-in-dao-ssi-using-metamask-snaps-part-1-3-cfed7c10e6f7) - In this demo, you will be able to obtain a credential presenting proof of competence that you can later use in DAO governance on our extended Snapshot.
+
+Low level:
+
+* [ACA-Py Demo](https://github.com/openwallet-foundation/acapy/tree/main/demo) ⭐ 489 | 🐛 155 | 🌐 Python | 📅 2026-08-13 - There are several demos available for ACA-Py mostly (but not only) aimed at developers learning how to deploy an instance of the agent and an ACA-Py controller to implement an application.
+* [Credo Demo](https://github.com/openwallet-foundation/credo-ts/tree/main/demo) ⭐ 350 | 🐛 297 | 🌐 TypeScript | 📅 2026-08-10 - Walk through the Credo flow yourself together with agents Alice and Faber in this demo.
+* [Credo OpenID Demo](https://github.com/openwallet-foundation/credo-ts/tree/main/demo-openid) ⭐ 350 | 🐛 297 | 🌐 TypeScript | 📅 2026-08-10 - Walk through the Credo OpenID flow yourself together with agents Alice and Faber in this demo.
+
+## 📡 Networks
+
+* [Sovrin Network](https://sovrin.org/) - A decentralized identity network based on Hyperledger Indy.
+* [Cheqd Network](https://www.cheqd.io) - An identity network that enables payment rails between issuer, holder & verifier.
+
+## 📚 Resources
+
+Resources that are not about specific concepts such as meetups, newsletters, etc.
+
+* [Become a ACA-Py Developer](https://github.com/openwallet-foundation/acapy/tree/main/docs/gettingStarted) ⭐ 489 | 🐛 155 | 🌐 Python | 📅 2026-08-13 - Quick course on how to get started with ACA-Py.
+* [Best-of-digital-identity](https://github.com/jruizaranguren/best-of-digital-identity) ⭐ 190 | 🐛 0 | 📅 2026-08-07 - Ranking, popularity and activity status of open-source digital identity projects, including decentralized identity projects.
+* [In Search of Self-Sovereign Identity Leveraging Blockchain technology](https://ieeexplore.ieee.org/document/8776589) - Article about finding a mathematical definition for SSI.
+* [Verifiable Credentials Use Cases](https://www.w3.org/TR/vc-use-cases/) - Concrete example scenarios that make use of Verifiable Credentials.
+* [W3C DID use cases](https://www.w3.org/TR/did-use-cases/) - List W3C requirements and specifications.
+* [Matching Identity Management Solutions to Self-Sovereign Identity Principles](https://www.slideshare.net/TommyKoens/matching-identity-management-solutions-to-selfsovereign-identity-principles) - A list and comparison of nearly 50 identity management solutions based on SSI requirements.
+* [Identosphere](https://newsletter.identosphere.net) - A newsletter providing the latest news in decentralized identity to your inbox each week.
+* [Verifiable Credentials 101 (SSI Meetup)](https://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/) - A SSI Meetup webinar by Tyler Ruff about VCs.
+* [Introduction to Digital Identity](https://walt.id/decentralized-identity-explained/digital-identity)
+* [Me, myself & (SS)I - co-authored by the Boston Consulting Group](https://static1.squarespace.com/static/609c0ddf94bcc0278a7cbdb4/t/623432727b5ccc4ad8876739/1647587956223/White+Paper+-+Self-Sovereign+Identity+%28SSI%29+%7C+BCG+x+walt.id.pdf)
+* [Introduction to NFTs for Identity](https://walt.id/white-paper/nfts-for-identity)
+* [The Future of Decentralized Identity: SSI vs. NFTs](https://walt.id/white-paper/ssi-vs-nfts)
+* [The Pilot Playbook - How to build SSI Pilots](https://walt.id/playbooks)
+* [eSSIF-Lab Glossary](https://essif-lab.github.io/framework/docs/essifLab-glossary) - A glossary by eSSIF-Lab describing various terms commonly used in the space of SSI.
+* [Overview of Frameworks & SDKs](https://europeanblockchainassociation.org/ssi-frameworks-sdks-overview/) - An overview of various SSI frameworks and SDKs by the European Blockchain Association.
+* [Overview of SSI Wallets](https://europeanblockchainassociation.org/ssi-wallets/) - An overview of various SSI wallets by the European Blockchain Association.
+
+## 📄 Technical Specifications
+
+* [Hyperledger Aries RFCs](https://github.com/decentralized-identity/aries-rfcs/blob/main/index.md) ⭐ 343 | 🐛 59 | 🌐 Python | 📅 2026-08-11 - Specifications of Aries protocols and standards.
+* [Hyperledger Indy Improvement Proposals](https://github.com/hyperledger/indy-hipe/blob/master/index.md) ⚠️ Archived - Specifications of Indy protocols and standards.
+* [SD-JWT](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/) - Specification for selective disclosure for JWT based verifiable credentials.
+* [SD-JWT-VC](https://datatracker.ietf.org/doc/draft-ietf-oauth-sd-jwt-vc/) - Specification for using SD-JWT as verifiable credentials.
+* [OpenID for Verifiable Credential Issuance (OID4VCI)](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html) - A specification that allows for the issuance of verifiable credentials using OpenID.
+* [OpenID for Verifiable Presentations (OID4VP)](https://openid.net/specs/openid-4-verifiable-presentations-1_0.html) - A specification that allows for presenting verifiable presentations using OpenID.
+* [Self-Issued OpenID Provider v2 (SIOPv2)](https://openid.net/specs/openid-connect-self-issued-v2-1_0.html) - A specification that allows the end-user to control a OpenID Provider. This specification is commonly used in combination with OpenID for Verifiable Presentations.
+* [OpenID for Verifiable Presentations over BLE](https://openid.bitbucket.io/connect/openid-4-verifiable-presentations-over-ble-1_0.html) - A specification that allows for exchanging OpenID Verifiable Presentations over BLE.
+* [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/) - Specification of verifiable credentials (VCs).
+* [W3C Verifiable Credentials Implementation Guidelines](https://www.w3.org/TR/vc-imp-guide/) - Implementation guidelines for verifiable credentials.
+* [W3C Verifiable Credentials Data Integrity](https://w3c.github.io/vc-data-integrity/) - Specifications describing mechanisms for ensuring the authenticity and integrity of structured digital documents using cryptography, such as digital signatures and other digital mathematical proofs (used to be LD Proofs).
+* [W3C Credential Handler API](https://w3c-ccg.github.io/credential-handler-api/) - Credential Handler API: specification defining capabilities that enable third-party Web applications to handle credential requests and storage events.
+* [W3C Decentralized Identifiers](https://www.w3.org/TR/did-1.0/) - Core specification of decentralized identifiers (DIDs).
+* [W3C Decentralized Identifier Extensions](https://www.w3.org/TR/did-extensions/) - Official registry for all known global parameters, properties, and values used by the Decentralized Identifier ecosystem.
+* [DIF Presentation Exchange](https://identity.foundation/presentation-exchange/) - Credential format and transport agnostic specification to articulate proof requirements and submit proofs.
+* [DIF Credential Manifest](https://identity.foundation/credential-manifest) - Common data format for describing the inputs a subject must provide for credential issuance.
+* [DIF DIDComm Messaging](https://identity.foundation/didcomm-messaging/spec) - A secure, private communication methodology built atop the decentralized design of DIDs.
+* [DIF Linked Verifiable Presentation](https://identity.foundation/linked-vp) - A mechanism to publicize Verifiable Credentials for easy discovery and access via a service entry in a DID Document.
+* [Key Event Receipt Infrastructure (KERI) collected resources](https://keri.one/keri-resources/) - Collected list of resources on Key Event Receipt Infrastructure.
+
+## 🎧 Podcasts
+
+* [The SSI Orbit Podcast](https://plinkhq.com/i/1552622325?to=page) - A podcast presented by Northern Block about self-sovereign identity, decentralized technologies and web3.
+* [The Rubric](https://plinkhq.com/i/1568335990/e/?to=page) - A podcast aimed at helping you understand the technologies behind decentralized identity such as decentralized identifiers (DIDs), DID documents and DID methods.
+* [The Future of Identity](https://trinsic.id/podcast) - Podcast that talks to the people building the IDtech products of tomorrow. In every episode, you'll gain invaluable insights as founders and product builders share how they have successfully gone-to-market with an identity product.
+
+## 📆 Events
+
+Notable events concerning self-sovereign identity.
+
+* [SSIMeetup](https://ssimeetup.org) - An open, collaborative community to help SSI evangelists around the world, independent of company interests or standards.
+* [Internet Identity Workshop](https://internetidentityworkshop.com/) - An event that is held twice every year that discusses user-centric identity related topics and technologies.
+
+## 📦 Stale Projects
+
+<!--lint disable double-link-->
+
+We maintain a list of no longer maintained projects for reference. If you see something on this list that's no longer maintained, please submit a PR moving the entry into [stale.md](./stale.md) and optionally add the reason why it's marked as stale with an indented comment.
+
+[View the list of stale projects here](./stale.md)
+
+<!--lint enable double-link-->
+
+## 🖋️ License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, Animo Solutions has waived all copyright and related or neighboring rights to this work.
+
+***
+
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._

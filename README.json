@@ -1,0 +1,528 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "♥ Contributions welcome! Read the contribution guidelines first"
+    },
+    {
+      "description": "To understand the philosophy of self-sovereign identity these starting guides and explanations have been collected.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Web Of Trust Self-Sovereign Identity Repository",
+          "description": "Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-12-07T18:02:42Z",
+            "owner": "WebOfTrustInfo",
+            "repo": "self-sovereign-identity",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Why Self-Sovereign Identity is Important",
+          "description": "How to convince your dad, your sister, your nephew and your best friend that SSI is a good idea.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-09T18:22:46Z",
+            "owner": "WebOfTrustInfo",
+            "repo": "rwot7-toronto",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Technology-free definition of SSI",
+          "description": "Topic paper for Rebooting Web of Trust III.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2016-10-17T03:22:58Z",
+            "owner": "jandrieu",
+            "repo": "rebooting-the-web-of-trust-fall2016",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "🤔 Philosophy & Concepts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Universal Resolver",
+          "description": "Universal DID resolver implementation and method specific drivers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T00:39:32Z",
+            "owner": "decentralized-identity",
+            "repo": "universal-resolver",
+            "stars": 643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ACA-Py",
+          "description": "Foundation for building decentralized identity applications and services running in non-mobile environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:14:53Z",
+            "owner": "openwallet-foundation",
+            "repo": "acapy",
+            "stars": 489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Credo",
+          "description": "TypeScript framework for building decentralized identity and verifiable credential solutions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T07:47:36Z",
+            "owner": "openwallet-foundation",
+            "repo": "credo-ts",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IOTA Identity",
+          "description": "Implementation of the decentralized identity standards such as DIDs and VCs by W3C for the IOTA Tangle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T08:02:43Z",
+            "owner": "iotaledger",
+            "repo": "identity",
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "walt.id Identity Lib",
+          "description": "All-in-one open-source identity and wallet toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T14:20:02Z",
+            "owner": "walt-id",
+            "repo": "waltid-identity",
+            "stars": 301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DID Resolver",
+          "description": "A simple common interface for JavaScript applications to resolve DID documents from Decentralized Identifiers (DIDs).",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ethr DID Resolver",
+              "description": "Use Ethereum addresses as fully self managed Decentralized Identifiers and wrap them in a DID Document.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T10:34:41Z",
+                "owner": "decentralized-identity",
+                "repo": "ethr-did-resolver",
+                "stars": 237
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "web DID Resolver",
+              "description": "Use domains accessed through https as Decentralized Identifiers and retrieve an associated DID Document.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-10T04:42:07Z",
+                "owner": "decentralized-identity",
+                "repo": "web-did-resolver",
+                "stars": 101
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T05:03:29Z",
+            "owner": "decentralized-identity",
+            "repo": "did-resolver",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vc-js",
+          "description": "A JavaScript library for issuing and verifying Verifiable Credentials.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-05T23:09:34Z",
+            "owner": "digitalbazaar",
+            "repo": "vc",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bifold Wallet",
+          "description": "An open source Aries mobile agent build with React Native and Aries Framework JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T18:33:55Z",
+            "owner": "openwallet-foundation",
+            "repo": "bifold-wallet",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DID",
+          "description": "A simple library to interact with DIDs that conform to the DID-provider interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-19T11:44:05Z",
+            "owner": "ceramicnetwork",
+            "repo": "js-did",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OIDC4VCI",
+          "description": "A TypeScript library for OpenID for Verifiable Credential Issuance by Sphereon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-03T11:47:08Z",
+            "owner": "Sphereon-Opensource",
+            "repo": "OID4VC",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnonCreds RS",
+          "description": "An implementation of the AnonCreds credential format in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-07T14:36:37Z",
+            "owner": "anoncreds",
+            "repo": "anoncreds-rs",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Universal Registrar",
+          "description": "Universal DID registrar implementation and method specific drivers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T19:39:08Z",
+            "owner": "decentralized-identity",
+            "repo": "universal-registrar",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sd-jwt-js",
+          "description": "A TypeScript implementation of the SD-JWT & SD-JWT-VC specification from Open Wallet Foundation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-18T17:22:15Z",
+            "owner": "openwallet-foundation",
+            "repo": "sd-jwt-js",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "did-key.rs",
+          "description": "Provide basic support for methods in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-03-18T01:31:53Z",
+            "owner": "decentralized-identity",
+            "repo": "did-key.rs",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DID Client (did-io)",
+          "description": "A DID resolution library for JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-29T21:55:11Z",
+            "owner": "digitalbazaar",
+            "repo": "did-io",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DCQL",
+          "description": "TypeScript implementation of the Digital Credentials Query Language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-01T23:20:06Z",
+            "owner": "openwallet-foundation-labs",
+            "repo": "dcql-ts",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenID for Verifiable Credentials",
+          "description": "TypeScript library implementation of OpenID4VC and OpenID4VCI protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T05:03:31Z",
+            "owner": "openwallet-foundation-labs",
+            "repo": "oid4vc-ts",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DIDComm Mediator",
+          "description": "An easy to set-up Aries and DIDComm v1 mediator built on Credo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-22T19:23:03Z",
+            "owner": "openwallet-foundation",
+            "repo": "didcomm-mediator-credo",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mDOC",
+          "description": "TypeScript library to work with ISO 18013-5 and ISO 18013-7 mDOC (and mDL).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T07:27:10Z",
+            "owner": "openwallet-foundation-labs",
+            "repo": "mdoc-ts",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenID Federation",
+          "description": "TypeScript implementation of the OpenID Federation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T09:46:38Z",
+            "owner": "openwallet-foundation-labs",
+            "repo": "openid-federation-ts",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Native BLE DIDComm",
+          "description": "SDK for exchanging DIDComm messages over Bluetooth Low Energy for iOS & Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-06T13:02:49Z",
+            "owner": "animo",
+            "repo": "react-native-ble-didcomm",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Expo Digital Credentials API",
+          "description": "Expo Module to automatically set up and configure Digital Credentials API for Android apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-22T09:29:15Z",
+            "owner": "animo",
+            "repo": "expo-digital-credentials-api",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Expo mDOC Data Transfer",
+          "description": "Expo Module for ISO 18013-5 Data Transfer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-05-25T10:39:10Z",
+            "owner": "openwallet-foundation-labs",
+            "repo": "expo-mdoc-data-transfer",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DCQL Playground",
+          "description": "A playground to test DCQL queries against credentials.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-13T23:19:49Z",
+            "owner": "animo",
+            "repo": "dcql-playground",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Expo Secure Environment",
+          "description": "Expo Module for cryptographic operations using the devices Secure Environment behind biometric authentication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-22T08:45:43Z",
+            "owner": "animo",
+            "repo": "expo-secure-environment",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "🛠 Tools & Technologies"
+    },
+    {
+      "description": "Resources that are not about specific concepts such as meetups, newsletters, etc.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Become a ACA-Py Developer",
+          "description": "Quick course on how to get started with ACA-Py.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:14:53Z",
+            "owner": "openwallet-foundation",
+            "repo": "acapy",
+            "stars": 489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Best-of-digital-identity",
+          "description": "Ranking, popularity and activity status of open-source digital identity projects, including decentralized identity projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-07T04:29:55Z",
+            "owner": "jruizaranguren",
+            "repo": "best-of-digital-identity",
+            "stars": 190
+          }
+        }
+      ],
+      "title": "📚 Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hyperledger Aries RFCs",
+          "description": "Specifications of Aries protocols and standards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T14:46:24Z",
+            "owner": "decentralized-identity",
+            "repo": "aries-rfcs",
+            "stars": 343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyperledger Indy Improvement Proposals",
+          "description": "Specifications of Indy protocols and standards.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2025-12-23T19:02:24Z",
+            "owner": "hyperledger",
+            "repo": "indy-did-method",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "📄 Technical Specifications"
+    },
+    {
+      "description": "We maintain a list of no longer maintained projects for reference. If you see something on this list that's no longer maintained, please submit a PR moving the entry into stale.md and optionally add the reason why it's marked as stale with an indented comment.\nView the list of stale projects here",
+      "items": [],
+      "title": "📦 Stale Projects"
+    },
+    {
+      "description": "To the extent possible under law, Animo Solutions has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "🖋️ License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:31:31.018Z",
+    "original_repository": "animo/awesome-self-sovereign-identity",
+    "original_repository_sha": "0ea274f8ee329242e61979bbd634503c225b837f",
+    "enhanced_repository": "enhansome/enhansome-self-sovereign-identity",
+    "enhanced_repository_description": null,
+    "title": "Awesome Self-Sovereign Identity with stars"
+  }
+}
