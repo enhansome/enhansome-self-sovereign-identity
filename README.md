@@ -100,9 +100,9 @@ Notable self-sovereign identity products and services that are in production.
 * [ACA-Py](https://github.com/openwallet-foundation/acapy) ⭐ 489 | 🐛 155 | 🌐 Python | 📅 2026-08-13 - Foundation for building decentralized identity applications and services running in non-mobile environments.
 * [Credo](https://github.com/openwallet-foundation/credo-ts) ⭐ 350 | 🐛 297 | 🌐 TypeScript | 📅 2026-08-10 - TypeScript framework for building decentralized identity and verifiable credential solutions.
 * [IOTA Identity](https://github.com/iotaledger/identity.rs) ⭐ 349 | 🐛 116 | 🌐 Rust | 📅 2026-08-12 - Implementation of the decentralized identity standards such as DIDs and VCs by W3C for the IOTA Tangle.
-* [walt.id Identity Lib](https://github.com/walt-id/waltid-identity) ⭐ 301 | 🐛 51 | 🌐 Kotlin | 📅 2026-08-12 - All-in-one open-source identity and wallet toolkit.
+* [walt.id Identity Lib](https://github.com/walt-id/waltid-identity) ⭐ 301 | 🐛 53 | 🌐 Kotlin | 📅 2026-08-13 - All-in-one open-source identity and wallet toolkit.
 * [DID Resolver](https://github.com/decentralized-identity/did-resolver) ⭐ 232 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-10 - A simple common interface for JavaScript applications to resolve DID documents from Decentralized Identifiers (DIDs).
-  * [ethr DID Resolver](https://github.com/decentralized-identity/ethr-did-resolver) ⭐ 237 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-12 - Use Ethereum addresses as fully self managed Decentralized Identifiers and wrap them in a DID Document.
+  * [ethr DID Resolver](https://github.com/decentralized-identity/ethr-did-resolver) ⭐ 237 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-13 - Use Ethereum addresses as fully self managed Decentralized Identifiers and wrap them in a DID Document.
   * [web DID Resolver](https://github.com/decentralized-identity/web-did-resolver) ⭐ 101 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-10 - Use domains accessed through https as Decentralized Identifiers and retrieve an associated DID Document.
 * [vc-js](https://github.com/digitalbazaar/vc-js) ⭐ 216 | 🐛 29 | 🌐 JavaScript | 📅 2026-02-05 - A JavaScript library for issuing and verifying Verifiable Credentials.
 * [Bifold Wallet](https://github.com/openwallet-foundation/bifold-wallet) ⭐ 203 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-11 - An open source Aries mobile agent build with React Native and Aries Framework JavaScript.
