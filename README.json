@@ -64,7 +64,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T06:41:33Z",
+            "last_commit": "2026-08-15T00:25:00Z",
             "owner": "decentralized-identity",
             "repo": "universal-resolver",
             "stars": 643
@@ -120,7 +120,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T06:36:14Z",
+            "last_commit": "2026-08-15T03:25:20Z",
             "owner": "walt-id",
             "repo": "waltid-identity",
             "stars": 301
@@ -139,7 +139,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-13T13:07:03Z",
+                "last_commit": "2026-08-14T23:15:19Z",
                 "owner": "decentralized-identity",
                 "repo": "ethr-did-resolver",
                 "stars": 237
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T06:54:41.174Z",
+    "last_updated": "2026-08-15T05:52:22.078Z",
     "original_repository": "animo/awesome-self-sovereign-identity",
     "original_repository_sha": "0ea274f8ee329242e61979bbd634503c225b837f",
     "enhanced_repository": "enhansome/enhansome-self-sovereign-identity",
