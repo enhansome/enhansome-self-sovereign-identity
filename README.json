@@ -64,7 +64,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T00:26:17Z",
+            "last_commit": "2026-08-17T00:26:13Z",
             "owner": "decentralized-identity",
             "repo": "universal-resolver",
             "stars": 644
@@ -120,7 +120,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-15T06:08:47Z",
+            "last_commit": "2026-08-16T23:47:01Z",
             "owner": "walt-id",
             "repo": "waltid-identity",
             "stars": 301
@@ -139,7 +139,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-15T18:33:25Z",
+                "last_commit": "2026-08-17T00:37:58Z",
                 "owner": "decentralized-identity",
                 "repo": "ethr-did-resolver",
                 "stars": 237
@@ -153,7 +153,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-10T04:42:07Z",
+                "last_commit": "2026-08-17T02:51:03Z",
                 "owner": "decentralized-identity",
                 "repo": "web-did-resolver",
                 "stars": 101
@@ -163,7 +163,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T05:03:29Z",
+            "last_commit": "2026-08-17T00:32:33Z",
             "owner": "decentralized-identity",
             "repo": "did-resolver",
             "stars": 232
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T05:54:29.631Z",
+    "last_updated": "2026-08-17T06:00:52.386Z",
     "original_repository": "animo/awesome-self-sovereign-identity",
     "original_repository_sha": "0ea274f8ee329242e61979bbd634503c225b837f",
     "enhanced_repository": "enhansome/enhansome-self-sovereign-identity",
