@@ -64,7 +64,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T00:26:13Z",
+            "last_commit": "2026-08-18T00:25:48Z",
             "owner": "decentralized-identity",
             "repo": "universal-resolver",
             "stars": 644
@@ -78,7 +78,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T02:14:53Z",
+            "last_commit": "2026-08-17T21:59:28Z",
             "owner": "openwallet-foundation",
             "repo": "acapy",
             "stars": 488
@@ -92,7 +92,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T22:53:48Z",
+            "last_commit": "2026-08-17T07:52:40Z",
             "owner": "openwallet-foundation",
             "repo": "credo-ts",
             "stars": 349
@@ -109,7 +109,7 @@
             "last_commit": "2026-08-12T08:02:43Z",
             "owner": "iotaledger",
             "repo": "identity",
-            "stars": 348
+            "stars": 347
           }
         },
         {
@@ -120,7 +120,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-16T23:47:01Z",
+            "last_commit": "2026-08-17T21:55:51Z",
             "owner": "walt-id",
             "repo": "waltid-identity",
             "stars": 301
@@ -153,7 +153,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T02:51:03Z",
+                "last_commit": "2026-08-17T06:54:50Z",
                 "owner": "decentralized-identity",
                 "repo": "web-did-resolver",
                 "stars": 101
@@ -163,7 +163,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T00:32:33Z",
+            "last_commit": "2026-08-17T06:38:07Z",
             "owner": "decentralized-identity",
             "repo": "did-resolver",
             "stars": 232
@@ -191,7 +191,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T20:10:01Z",
+            "last_commit": "2026-08-17T18:15:02Z",
             "owner": "openwallet-foundation",
             "repo": "bifold-wallet",
             "stars": 203
@@ -250,7 +250,7 @@
             "last_commit": "2026-08-11T19:39:08Z",
             "owner": "decentralized-identity",
             "repo": "universal-registrar",
-            "stars": 87
+            "stars": 88
           }
         },
         {
@@ -261,7 +261,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-07-18T17:22:15Z",
+            "last_commit": "2026-08-17T12:09:19Z",
             "owner": "openwallet-foundation",
             "repo": "sd-jwt-js",
             "stars": 81
@@ -297,6 +297,20 @@
         },
         {
           "node_type": "item",
+          "title": "OpenID for Verifiable Credentials",
+          "description": "TypeScript library implementation of OpenID4VC and OpenID4VCI protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-17T16:33:09Z",
+            "owner": "openwallet-foundation-labs",
+            "repo": "oid4vc-ts",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
           "title": "DCQL",
           "description": "TypeScript implementation of the Digital Credentials Query Language.",
           "children": [],
@@ -306,20 +320,6 @@
             "last_commit": "2026-06-01T23:20:06Z",
             "owner": "openwallet-foundation-labs",
             "repo": "dcql-ts",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenID for Verifiable Credentials",
-          "description": "TypeScript library implementation of OpenID4VC and OpenID4VCI protocols.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T05:03:31Z",
-            "owner": "openwallet-foundation-labs",
-            "repo": "oid4vc-ts",
             "stars": 28
           }
         },
@@ -345,7 +345,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T07:27:10Z",
+            "last_commit": "2026-08-17T07:16:09Z",
             "owner": "openwallet-foundation-labs",
             "repo": "mdoc-ts",
             "stars": 13
@@ -381,20 +381,6 @@
         },
         {
           "node_type": "item",
-          "title": "Expo Digital Credentials API",
-          "description": "Expo Module to automatically set up and configure Digital Credentials API for Android apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-22T09:29:15Z",
-            "owner": "animo",
-            "repo": "expo-digital-credentials-api",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Expo mDOC Data Transfer",
           "description": "Expo Module for ISO 18013-5 Data Transfer.",
           "children": [],
@@ -404,6 +390,20 @@
             "last_commit": "2026-05-25T10:39:10Z",
             "owner": "openwallet-foundation-labs",
             "repo": "expo-mdoc-data-transfer",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Expo Digital Credentials API",
+          "description": "Expo Module to automatically set up and configure Digital Credentials API for Android apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-22T09:29:15Z",
+            "owner": "animo",
+            "repo": "expo-digital-credentials-api",
             "stars": 4
           }
         },
@@ -449,7 +449,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T02:14:53Z",
+            "last_commit": "2026-08-17T21:59:28Z",
             "owner": "openwallet-foundation",
             "repo": "acapy",
             "stars": 488
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T06:00:52.386Z",
+    "last_updated": "2026-08-18T05:55:54.077Z",
     "original_repository": "animo/awesome-self-sovereign-identity",
     "original_repository_sha": "0ea274f8ee329242e61979bbd634503c225b837f",
     "enhanced_repository": "enhansome/enhansome-self-sovereign-identity",
