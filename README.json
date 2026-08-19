@@ -64,7 +64,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-18T00:25:48Z",
+            "last_commit": "2026-08-19T00:24:06Z",
             "owner": "decentralized-identity",
             "repo": "universal-resolver",
             "stars": 644
@@ -92,7 +92,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T07:52:40Z",
+            "last_commit": "2026-08-18T12:25:41Z",
             "owner": "openwallet-foundation",
             "repo": "credo-ts",
             "stars": 349
@@ -120,7 +120,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-17T21:55:51Z",
+            "last_commit": "2026-08-18T22:42:40Z",
             "owner": "walt-id",
             "repo": "waltid-identity",
             "stars": 301
@@ -139,7 +139,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T00:37:58Z",
+                "last_commit": "2026-08-18T16:51:15Z",
                 "owner": "decentralized-identity",
                 "repo": "ethr-did-resolver",
                 "stars": 237
@@ -303,7 +303,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T16:33:09Z",
+            "last_commit": "2026-08-18T13:03:43Z",
             "owner": "openwallet-foundation-labs",
             "repo": "oid4vc-ts",
             "stars": 29
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T05:55:54.077Z",
+    "last_updated": "2026-08-19T05:56:48.223Z",
     "original_repository": "animo/awesome-self-sovereign-identity",
     "original_repository_sha": "0ea274f8ee329242e61979bbd634503c225b837f",
     "enhanced_repository": "enhansome/enhansome-self-sovereign-identity",
