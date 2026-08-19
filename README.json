@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "♥ Contributions welcome! Read the contribution guidelines first"
-    },
-    {
       "description": "To understand the philosophy of self-sovereign identity these starting guides and explanations have been collected.",
       "items": [
         {
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71672322,
             "language": null,
             "last_commit": "2022-12-07T18:02:42Z",
             "owner": "WebOfTrustInfo",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141204432,
             "language": null,
             "last_commit": "2022-05-09T18:22:46Z",
             "owner": "WebOfTrustInfo",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71096089,
             "language": "HTML",
             "last_commit": "2016-10-17T03:22:58Z",
             "owner": "jandrieu",
@@ -54,7 +52,43 @@
       "title": "🤔 Philosophy & Concepts"
     },
     {
-      "description": "",
+      "description": "What projects are out there using self-sovereign identity.\nIdentity wallets for storing verifiable credentials.\nSoftware development kits for building an identity wallet.\nNotable self-sovereign identity products and services that are in production.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SSI Snap",
+          "description": "An extension for MetaMask that adds SSI capabilities (DIDs and VCs) by Blockchain Lab:UM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 490245203,
+            "language": "TypeScript",
+            "last_commit": "2026-03-31T07:48:24Z",
+            "owner": "blockchain-lab-um",
+            "repo": "masca",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paradym Wallet",
+          "description": "Mobile wallet to seamlessly manage and present your digital credentials.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 638623481,
+            "language": "TypeScript",
+            "last_commit": "2026-08-17T07:33:46Z",
+            "owner": "animo",
+            "repo": "paradym-wallet",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "💁‍♂️ Products & Services"
+    },
+    {
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -63,8 +97,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99031144,
             "language": "Java",
-            "last_commit": "2026-08-19T00:24:06Z",
+            "last_commit": "2026-08-19T12:17:12Z",
             "owner": "decentralized-identity",
             "repo": "universal-resolver",
             "stars": 644
@@ -77,11 +112,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193556007,
             "language": "Python",
             "last_commit": "2026-08-17T21:59:28Z",
             "owner": "openwallet-foundation",
             "repo": "acapy",
-            "stars": 488
+            "stars": 489
           }
         },
         {
@@ -91,8 +127,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222990667,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T12:25:41Z",
+            "last_commit": "2026-08-19T10:42:26Z",
             "owner": "openwallet-foundation",
             "repo": "credo-ts",
             "stars": 349
@@ -105,8 +142,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 238708260,
             "language": "Rust",
-            "last_commit": "2026-08-12T08:02:43Z",
+            "last_commit": "2026-08-19T12:40:42Z",
             "owner": "iotaledger",
             "repo": "identity",
             "stars": 347
@@ -119,8 +157,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 701058624,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T22:42:40Z",
+            "last_commit": "2026-08-19T12:45:03Z",
             "owner": "walt-id",
             "repo": "waltid-identity",
             "stars": 301
@@ -138,6 +177,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 127560664,
                 "language": "TypeScript",
                 "last_commit": "2026-08-18T16:51:15Z",
                 "owner": "decentralized-identity",
@@ -152,6 +192,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 149674131,
                 "language": "TypeScript",
                 "last_commit": "2026-08-17T06:54:50Z",
                 "owner": "decentralized-identity",
@@ -162,6 +203,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 122224660,
             "language": "TypeScript",
             "last_commit": "2026-08-17T06:38:07Z",
             "owner": "decentralized-identity",
@@ -176,6 +218,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108181615,
             "language": "JavaScript",
             "last_commit": "2026-02-05T23:09:34Z",
             "owner": "digitalbazaar",
@@ -190,6 +233,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 310693687,
             "language": "TypeScript",
             "last_commit": "2026-08-17T18:15:02Z",
             "owner": "openwallet-foundation",
@@ -204,6 +248,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 279258716,
             "language": "TypeScript",
             "last_commit": "2024-12-19T11:44:05Z",
             "owner": "ceramicnetwork",
@@ -218,6 +263,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 548583890,
             "language": "TypeScript",
             "last_commit": "2026-07-03T11:47:08Z",
             "owner": "Sphereon-Opensource",
@@ -232,6 +278,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 554915512,
             "language": "Rust",
             "last_commit": "2026-01-07T14:36:37Z",
             "owner": "anoncreds",
@@ -246,6 +293,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105272607,
             "language": "Java",
             "last_commit": "2026-08-11T19:39:08Z",
             "owner": "decentralized-identity",
@@ -260,6 +308,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 713007244,
             "language": "TypeScript",
             "last_commit": "2026-08-17T12:09:19Z",
             "owner": "openwallet-foundation",
@@ -274,6 +323,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 330674330,
             "language": "Rust",
             "last_commit": "2024-03-18T01:31:53Z",
             "owner": "decentralized-identity",
@@ -288,6 +338,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35301582,
             "language": "JavaScript",
             "last_commit": "2026-05-29T21:55:11Z",
             "owner": "digitalbazaar",
@@ -302,8 +353,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 875499703,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T13:03:43Z",
+            "last_commit": "2026-08-19T07:15:58Z",
             "owner": "openwallet-foundation-labs",
             "repo": "oid4vc-ts",
             "stars": 29
@@ -316,6 +368,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 873501487,
             "language": "TypeScript",
             "last_commit": "2026-06-01T23:20:06Z",
             "owner": "openwallet-foundation-labs",
@@ -330,6 +383,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 558862384,
             "language": "TypeScript",
             "last_commit": "2026-07-22T19:23:03Z",
             "owner": "openwallet-foundation",
@@ -344,6 +398,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 846540766,
             "language": "TypeScript",
             "last_commit": "2026-08-17T07:16:09Z",
             "owner": "openwallet-foundation-labs",
@@ -358,6 +413,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 807076292,
             "language": "TypeScript",
             "last_commit": "2026-08-11T09:46:38Z",
             "owner": "openwallet-foundation-labs",
@@ -372,6 +428,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 553530209,
             "language": "TypeScript",
             "last_commit": "2025-01-06T13:02:49Z",
             "owner": "animo",
@@ -386,6 +443,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 869436102,
             "language": "Kotlin",
             "last_commit": "2026-05-25T10:39:10Z",
             "owner": "openwallet-foundation-labs",
@@ -400,6 +458,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 934152418,
             "language": "TypeScript",
             "last_commit": "2026-05-22T09:29:15Z",
             "owner": "animo",
@@ -414,6 +473,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1015201584,
             "language": "TypeScript",
             "last_commit": "2026-04-13T23:19:49Z",
             "owner": "animo",
@@ -428,6 +488,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 833584636,
             "language": "TypeScript",
             "last_commit": "2026-05-22T08:45:43Z",
             "owner": "animo",
@@ -439,6 +500,57 @@
       "title": "🛠 Tools & Technologies"
     },
     {
+      "description": "High level:\nLow level:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ACA-Py Demo",
+          "description": "There are several demos available for ACA-Py mostly (but not only) aimed at developers learning how to deploy an instance of the agent and an ACA-Py controller to implement an application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 193556007,
+            "language": "Python",
+            "last_commit": "2026-08-17T21:59:28Z",
+            "owner": "openwallet-foundation",
+            "repo": "acapy",
+            "stars": 489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Credo Demo",
+          "description": "Walk through the Credo flow yourself together with agents Alice and Faber in this demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 222990667,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T10:42:26Z",
+            "owner": "openwallet-foundation",
+            "repo": "credo-ts",
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Credo OpenID Demo",
+          "description": "Walk through the Credo OpenID flow yourself together with agents Alice and Faber in this demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 222990667,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T10:42:26Z",
+            "owner": "openwallet-foundation",
+            "repo": "credo-ts",
+            "stars": 349
+          }
+        }
+      ],
+      "title": "🎮 Demo's"
+    },
+    {
       "description": "Resources that are not about specific concepts such as meetups, newsletters, etc.",
       "items": [
         {
@@ -448,11 +560,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193556007,
             "language": "Python",
             "last_commit": "2026-08-17T21:59:28Z",
             "owner": "openwallet-foundation",
             "repo": "acapy",
-            "stars": 488
+            "stars": 489
           }
         },
         {
@@ -462,6 +575,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 626861341,
             "language": null,
             "last_commit": "2026-08-14T04:47:19Z",
             "owner": "jruizaranguren",
@@ -473,7 +587,7 @@
       "title": "📚 Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -482,6 +596,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185645683,
             "language": "Python",
             "last_commit": "2026-08-11T14:46:24Z",
             "owner": "decentralized-identity",
@@ -496,6 +611,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1121904357,
             "language": "HTML",
             "last_commit": "2025-12-23T19:02:24Z",
             "owner": "hyperledger",
@@ -505,21 +621,12 @@
         }
       ],
       "title": "📄 Technical Specifications"
-    },
-    {
-      "description": "We maintain a list of no longer maintained projects for reference. If you see something on this list that's no longer maintained, please submit a PR moving the entry into stale.md and optionally add the reason why it's marked as stale with an indented comment.\nView the list of stale projects here",
-      "items": [],
-      "title": "📦 Stale Projects"
-    },
-    {
-      "description": "To the extent possible under law, Animo Solutions has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "🖋️ License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:56:48.223Z",
+    "last_updated": "2026-08-19T12:50:47.109Z",
     "original_repository": "animo/awesome-self-sovereign-identity",
+    "original_repository_id": 214413588,
     "original_repository_sha": "0ea274f8ee329242e61979bbd634503c225b837f",
     "enhanced_repository": "enhansome/enhansome-self-sovereign-identity",
     "enhanced_repository_description": null,
