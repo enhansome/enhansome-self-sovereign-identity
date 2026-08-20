@@ -99,7 +99,7 @@
             "archived": false,
             "id": 99031144,
             "language": "Java",
-            "last_commit": "2026-08-19T12:17:12Z",
+            "last_commit": "2026-08-20T00:24:51Z",
             "owner": "decentralized-identity",
             "repo": "universal-resolver",
             "stars": 644
@@ -114,7 +114,7 @@
             "archived": false,
             "id": 193556007,
             "language": "Python",
-            "last_commit": "2026-08-17T21:59:28Z",
+            "last_commit": "2026-08-19T17:50:32Z",
             "owner": "openwallet-foundation",
             "repo": "acapy",
             "stars": 489
@@ -144,7 +144,7 @@
             "archived": false,
             "id": 238708260,
             "language": "Rust",
-            "last_commit": "2026-08-19T12:40:42Z",
+            "last_commit": "2026-08-19T14:20:44Z",
             "owner": "iotaledger",
             "repo": "identity",
             "stars": 347
@@ -159,10 +159,10 @@
             "archived": false,
             "id": 701058624,
             "language": "Kotlin",
-            "last_commit": "2026-08-19T12:45:03Z",
+            "last_commit": "2026-08-20T00:57:29Z",
             "owner": "walt-id",
             "repo": "waltid-identity",
-            "stars": 301
+            "stars": 302
           }
         },
         {
@@ -179,7 +179,7 @@
                 "archived": false,
                 "id": 127560664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T16:51:15Z",
+                "last_commit": "2026-08-19T19:01:58Z",
                 "owner": "decentralized-identity",
                 "repo": "ethr-did-resolver",
                 "stars": 237
@@ -511,7 +511,7 @@
             "archived": false,
             "id": 193556007,
             "language": "Python",
-            "last_commit": "2026-08-17T21:59:28Z",
+            "last_commit": "2026-08-19T17:50:32Z",
             "owner": "openwallet-foundation",
             "repo": "acapy",
             "stars": 489
@@ -562,7 +562,7 @@
             "archived": false,
             "id": 193556007,
             "language": "Python",
-            "last_commit": "2026-08-17T21:59:28Z",
+            "last_commit": "2026-08-19T17:50:32Z",
             "owner": "openwallet-foundation",
             "repo": "acapy",
             "stars": 489
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:50:47.109Z",
+    "last_updated": "2026-08-20T05:57:42.307Z",
     "original_repository": "animo/awesome-self-sovereign-identity",
     "original_repository_id": 214413588,
     "original_repository_sha": "0ea274f8ee329242e61979bbd634503c225b837f",
