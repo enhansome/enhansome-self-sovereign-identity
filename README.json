@@ -99,7 +99,7 @@
             "archived": false,
             "id": 99031144,
             "language": "Java",
-            "last_commit": "2026-08-20T00:24:51Z",
+            "last_commit": "2026-08-21T00:27:22Z",
             "owner": "decentralized-identity",
             "repo": "universal-resolver",
             "stars": 644
@@ -144,7 +144,7 @@
             "archived": false,
             "id": 238708260,
             "language": "Rust",
-            "last_commit": "2026-08-19T14:20:44Z",
+            "last_commit": "2026-08-20T16:21:56Z",
             "owner": "iotaledger",
             "repo": "identity",
             "stars": 347
@@ -159,7 +159,7 @@
             "archived": false,
             "id": 701058624,
             "language": "Kotlin",
-            "last_commit": "2026-08-20T00:57:29Z",
+            "last_commit": "2026-08-20T19:25:38Z",
             "owner": "walt-id",
             "repo": "waltid-identity",
             "stars": 302
@@ -179,7 +179,7 @@
                 "archived": false,
                 "id": 127560664,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T19:01:58Z",
+                "last_commit": "2026-08-21T00:56:26Z",
                 "owner": "decentralized-identity",
                 "repo": "ethr-did-resolver",
                 "stars": 237
@@ -238,7 +238,7 @@
             "last_commit": "2026-08-17T18:15:02Z",
             "owner": "openwallet-foundation",
             "repo": "bifold-wallet",
-            "stars": 203
+            "stars": 204
           }
         },
         {
@@ -273,6 +273,21 @@
         },
         {
           "node_type": "item",
+          "title": "Universal Registrar",
+          "description": "Universal DID registrar implementation and method specific drivers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105272607,
+            "language": "Java",
+            "last_commit": "2026-08-20T16:52:09Z",
+            "owner": "decentralized-identity",
+            "repo": "universal-registrar",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
           "title": "AnonCreds RS",
           "description": "An implementation of the AnonCreds credential format in Rust.",
           "children": [],
@@ -283,21 +298,6 @@
             "last_commit": "2026-01-07T14:36:37Z",
             "owner": "anoncreds",
             "repo": "anoncreds-rs",
-            "stars": 88
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Universal Registrar",
-          "description": "Universal DID registrar implementation and method specific drivers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 105272607,
-            "language": "Java",
-            "last_commit": "2026-08-11T19:39:08Z",
-            "owner": "decentralized-identity",
-            "repo": "universal-registrar",
             "stars": 88
           }
         },
@@ -577,7 +577,7 @@
             "archived": false,
             "id": 626861341,
             "language": null,
-            "last_commit": "2026-08-14T04:47:19Z",
+            "last_commit": "2026-08-20T18:38:53Z",
             "owner": "jruizaranguren",
             "repo": "best-of-digital-identity",
             "stars": 190
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T05:57:42.307Z",
+    "last_updated": "2026-08-21T05:58:54.357Z",
     "original_repository": "animo/awesome-self-sovereign-identity",
     "original_repository_id": 214413588,
     "original_repository_sha": "0ea274f8ee329242e61979bbd634503c225b837f",
