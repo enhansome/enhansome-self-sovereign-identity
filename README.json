@@ -99,10 +99,10 @@
             "archived": false,
             "id": 99031144,
             "language": "Java",
-            "last_commit": "2026-08-22T04:21:42Z",
+            "last_commit": "2026-08-23T00:27:44Z",
             "owner": "decentralized-identity",
             "repo": "universal-resolver",
-            "stars": 644
+            "stars": 645
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-21T22:25:25Z",
             "owner": "openwallet-foundation",
             "repo": "acapy",
-            "stars": 489
+            "stars": 490
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-19T10:42:26Z",
             "owner": "openwallet-foundation",
             "repo": "credo-ts",
-            "stars": 349
+            "stars": 350
           }
         },
         {
@@ -159,10 +159,10 @@
             "archived": false,
             "id": 701058624,
             "language": "Kotlin",
-            "last_commit": "2026-08-22T00:03:40Z",
+            "last_commit": "2026-08-22T17:30:09Z",
             "owner": "walt-id",
             "repo": "waltid-identity",
-            "stars": 302
+            "stars": 303
           }
         },
         {
@@ -182,7 +182,7 @@
                 "last_commit": "2026-08-21T14:10:28Z",
                 "owner": "decentralized-identity",
                 "repo": "ethr-did-resolver",
-                "stars": 237
+                "stars": 238
               }
             },
             {
@@ -283,7 +283,7 @@
             "last_commit": "2026-08-22T04:22:28Z",
             "owner": "decentralized-identity",
             "repo": "universal-registrar",
-            "stars": 89
+            "stars": 90
           }
         },
         {
@@ -388,7 +388,7 @@
             "last_commit": "2026-07-22T19:23:03Z",
             "owner": "openwallet-foundation",
             "repo": "didcomm-mediator-credo",
-            "stars": 17
+            "stars": 18
           }
         },
         {
@@ -514,7 +514,7 @@
             "last_commit": "2026-08-21T22:25:25Z",
             "owner": "openwallet-foundation",
             "repo": "acapy",
-            "stars": 489
+            "stars": 490
           }
         },
         {
@@ -529,7 +529,7 @@
             "last_commit": "2026-08-19T10:42:26Z",
             "owner": "openwallet-foundation",
             "repo": "credo-ts",
-            "stars": 349
+            "stars": 350
           }
         },
         {
@@ -544,7 +544,7 @@
             "last_commit": "2026-08-19T10:42:26Z",
             "owner": "openwallet-foundation",
             "repo": "credo-ts",
-            "stars": 349
+            "stars": 350
           }
         }
       ],
@@ -565,7 +565,7 @@
             "last_commit": "2026-08-21T22:25:25Z",
             "owner": "openwallet-foundation",
             "repo": "acapy",
-            "stars": 489
+            "stars": 490
           }
         },
         {
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T05:54:39.802Z",
+    "last_updated": "2026-08-23T05:55:51.303Z",
     "original_repository": "animo/awesome-self-sovereign-identity",
     "original_repository_id": 214413588,
     "original_repository_sha": "0ea274f8ee329242e61979bbd634503c225b837f",
