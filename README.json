@@ -78,10 +78,25 @@
             "archived": false,
             "id": 638623481,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T07:33:46Z",
+            "last_commit": "2026-08-24T07:36:51Z",
             "owner": "animo",
             "repo": "paradym-wallet",
             "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VC on Internet Identity",
+          "description": "A wallet-less and privacy preserving VC protocol built on top Internet Identity on ICP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 356347737,
+            "language": "Rust",
+            "last_commit": "2026-08-24T14:18:01Z",
+            "owner": "dfinity",
+            "repo": "internet-identity",
+            "stars": 532
           }
         }
       ],
@@ -99,7 +114,7 @@
             "archived": false,
             "id": 99031144,
             "language": "Java",
-            "last_commit": "2026-08-24T00:27:10Z",
+            "last_commit": "2026-08-24T13:14:24Z",
             "owner": "decentralized-identity",
             "repo": "universal-resolver",
             "stars": 645
@@ -114,7 +129,7 @@
             "archived": false,
             "id": 193556007,
             "language": "Python",
-            "last_commit": "2026-08-21T22:25:25Z",
+            "last_commit": "2026-08-24T14:24:36Z",
             "owner": "openwallet-foundation",
             "repo": "acapy",
             "stars": 490
@@ -129,7 +144,7 @@
             "archived": false,
             "id": 222990667,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T10:42:26Z",
+            "last_commit": "2026-08-24T07:43:28Z",
             "owner": "openwallet-foundation",
             "repo": "credo-ts",
             "stars": 350
@@ -159,7 +174,7 @@
             "archived": false,
             "id": 701058624,
             "language": "Kotlin",
-            "last_commit": "2026-08-23T23:40:16Z",
+            "last_commit": "2026-08-24T13:43:02Z",
             "owner": "walt-id",
             "repo": "waltid-identity",
             "stars": 303
@@ -355,7 +370,7 @@
             "archived": false,
             "id": 875499703,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T07:15:58Z",
+            "last_commit": "2026-08-24T07:14:16Z",
             "owner": "openwallet-foundation-labs",
             "repo": "oid4vc-ts",
             "stars": 29
@@ -400,7 +415,7 @@
             "archived": false,
             "id": 846540766,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T07:16:09Z",
+            "last_commit": "2026-08-24T07:19:28Z",
             "owner": "openwallet-foundation-labs",
             "repo": "mdoc-ts",
             "stars": 13
@@ -511,7 +526,7 @@
             "archived": false,
             "id": 193556007,
             "language": "Python",
-            "last_commit": "2026-08-21T22:25:25Z",
+            "last_commit": "2026-08-24T14:24:36Z",
             "owner": "openwallet-foundation",
             "repo": "acapy",
             "stars": 490
@@ -526,7 +541,7 @@
             "archived": false,
             "id": 222990667,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T10:42:26Z",
+            "last_commit": "2026-08-24T07:43:28Z",
             "owner": "openwallet-foundation",
             "repo": "credo-ts",
             "stars": 350
@@ -541,7 +556,7 @@
             "archived": false,
             "id": 222990667,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T10:42:26Z",
+            "last_commit": "2026-08-24T07:43:28Z",
             "owner": "openwallet-foundation",
             "repo": "credo-ts",
             "stars": 350
@@ -562,7 +577,7 @@
             "archived": false,
             "id": 193556007,
             "language": "Python",
-            "last_commit": "2026-08-21T22:25:25Z",
+            "last_commit": "2026-08-24T14:24:36Z",
             "owner": "openwallet-foundation",
             "repo": "acapy",
             "stars": 490
@@ -624,7 +639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:04:15.537Z",
+    "last_updated": "2026-08-24T14:25:07.812Z",
     "original_repository": "animo/awesome-self-sovereign-identity",
     "original_repository_id": 214413588,
     "original_repository_sha": "0ea274f8ee329242e61979bbd634503c225b837f",
