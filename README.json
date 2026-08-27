@@ -93,7 +93,7 @@
             "archived": false,
             "id": 356347737,
             "language": "Rust",
-            "last_commit": "2026-08-25T19:47:20Z",
+            "last_commit": "2026-08-27T11:05:27Z",
             "owner": "dfinity",
             "repo": "internet-identity",
             "stars": 532
@@ -114,7 +114,7 @@
             "archived": false,
             "id": 99031144,
             "language": "Java",
-            "last_commit": "2026-08-26T00:26:28Z",
+            "last_commit": "2026-08-27T09:20:02Z",
             "owner": "decentralized-identity",
             "repo": "universal-resolver",
             "stars": 645
@@ -144,10 +144,10 @@
             "archived": false,
             "id": 222990667,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T07:43:28Z",
+            "last_commit": "2026-08-27T11:50:16Z",
             "owner": "openwallet-foundation",
             "repo": "credo-ts",
-            "stars": 350
+            "stars": 351
           }
         },
         {
@@ -174,7 +174,7 @@
             "archived": false,
             "id": 701058624,
             "language": "Kotlin",
-            "last_commit": "2026-08-25T22:07:19Z",
+            "last_commit": "2026-08-27T10:43:20Z",
             "owner": "walt-id",
             "repo": "waltid-identity",
             "stars": 304
@@ -541,10 +541,10 @@
             "archived": false,
             "id": 222990667,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T07:43:28Z",
+            "last_commit": "2026-08-27T11:50:16Z",
             "owner": "openwallet-foundation",
             "repo": "credo-ts",
-            "stars": 350
+            "stars": 351
           }
         },
         {
@@ -556,10 +556,10 @@
             "archived": false,
             "id": 222990667,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T07:43:28Z",
+            "last_commit": "2026-08-27T11:50:16Z",
             "owner": "openwallet-foundation",
             "repo": "credo-ts",
-            "stars": 350
+            "stars": 351
           }
         }
       ],
@@ -639,9 +639,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:00:02.580Z",
-    "original_repository": "animo/awesome-self-sovereign-identity",
-    "original_repository_id": 214413588,
+    "last_updated": "2026-08-27T12:01:54.885Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 214413588,
+      "language": null,
+      "last_commit": "2025-11-11T12:45:47Z",
+      "owner": "animo",
+      "repo": "awesome-self-sovereign-identity",
+      "stars": 401
+    },
     "original_repository_sha": "0ea274f8ee329242e61979bbd634503c225b837f",
     "enhanced_repository": "enhansome/enhansome-self-sovereign-identity",
     "enhanced_repository_description": null,
