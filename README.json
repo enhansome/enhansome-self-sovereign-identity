@@ -16,7 +16,8 @@
             "owner": "WebOfTrustInfo",
             "repo": "self-sovereign-identity",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "WebOfTrustInfo",
             "repo": "rwot7-toronto",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "jandrieu",
             "repo": "rebooting-the-web-of-trust-fall2016",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         }
       ],
       "title": "🤔 Philosophy & Concepts"
@@ -67,7 +70,8 @@
             "owner": "blockchain-lab-um",
             "repo": "masca",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "animo",
             "repo": "paradym-wallet",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -93,11 +98,12 @@
             "archived": false,
             "id": 356347737,
             "language": "Rust",
-            "last_commit": "2026-08-27T12:44:15Z",
+            "last_commit": "2026-08-28T14:34:33Z",
             "owner": "dfinity",
             "repo": "internet-identity",
-            "stars": 532
-          }
+            "stars": 533
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         }
       ],
       "title": "💁‍♂️ Products & Services"
@@ -114,11 +120,12 @@
             "archived": false,
             "id": 99031144,
             "language": "Java",
-            "last_commit": "2026-08-27T15:58:21Z",
+            "last_commit": "2026-08-28T16:21:45Z",
             "owner": "decentralized-identity",
             "repo": "universal-resolver",
             "stars": 645
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "openwallet-foundation",
             "repo": "acapy",
             "stars": 490
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "openwallet-foundation",
             "repo": "credo-ts",
             "stars": 351
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "iotaledger",
             "repo": "identity",
             "stars": 347
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -174,11 +184,12 @@
             "archived": false,
             "id": 701058624,
             "language": "Kotlin",
-            "last_commit": "2026-08-27T16:00:23Z",
+            "last_commit": "2026-08-28T15:22:17Z",
             "owner": "walt-id",
             "repo": "waltid-identity",
             "stars": 305
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -198,7 +209,8 @@
                 "owner": "decentralized-identity",
                 "repo": "ethr-did-resolver",
                 "stars": 238
-              }
+              },
+              "first_seen": "2026-08-28T17:38:54.429Z"
             },
             {
               "node_type": "item",
@@ -213,7 +225,8 @@
                 "owner": "decentralized-identity",
                 "repo": "web-did-resolver",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T17:38:54.429Z"
             }
           ],
           "repo_info": {
@@ -224,7 +237,8 @@
             "owner": "decentralized-identity",
             "repo": "did-resolver",
             "stars": 232
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -239,7 +253,8 @@
             "owner": "digitalbazaar",
             "repo": "vc",
             "stars": 216
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -250,11 +265,12 @@
             "archived": false,
             "id": 310693687,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T18:15:02Z",
+            "last_commit": "2026-08-28T13:54:01Z",
             "owner": "openwallet-foundation",
             "repo": "bifold-wallet",
             "stars": 204
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -269,7 +285,8 @@
             "owner": "ceramicnetwork",
             "repo": "js-did",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -284,7 +301,8 @@
             "owner": "Sphereon-Opensource",
             "repo": "OID4VC",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -299,7 +317,8 @@
             "owner": "decentralized-identity",
             "repo": "universal-registrar",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -314,7 +333,8 @@
             "owner": "anoncreds",
             "repo": "anoncreds-rs",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -329,7 +349,8 @@
             "owner": "openwallet-foundation",
             "repo": "sd-jwt-js",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -344,7 +365,8 @@
             "owner": "decentralized-identity",
             "repo": "did-key.rs",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -359,7 +381,8 @@
             "owner": "digitalbazaar",
             "repo": "did-io",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -374,7 +397,8 @@
             "owner": "openwallet-foundation-labs",
             "repo": "oid4vc-ts",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -389,7 +413,8 @@
             "owner": "openwallet-foundation-labs",
             "repo": "dcql-ts",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -404,7 +429,8 @@
             "owner": "openwallet-foundation",
             "repo": "didcomm-mediator-credo",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -419,7 +445,8 @@
             "owner": "openwallet-foundation-labs",
             "repo": "mdoc-ts",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -434,7 +461,8 @@
             "owner": "openwallet-foundation-labs",
             "repo": "openid-federation-ts",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -449,7 +477,8 @@
             "owner": "animo",
             "repo": "react-native-ble-didcomm",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -464,7 +493,8 @@
             "owner": "openwallet-foundation-labs",
             "repo": "expo-mdoc-data-transfer",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -479,7 +509,8 @@
             "owner": "animo",
             "repo": "expo-digital-credentials-api",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -494,7 +525,8 @@
             "owner": "animo",
             "repo": "dcql-playground",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -509,7 +541,8 @@
             "owner": "animo",
             "repo": "expo-secure-environment",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         }
       ],
       "title": "🛠 Tools & Technologies"
@@ -530,7 +563,8 @@
             "owner": "openwallet-foundation",
             "repo": "acapy",
             "stars": 490
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -545,7 +579,8 @@
             "owner": "openwallet-foundation",
             "repo": "credo-ts",
             "stars": 351
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -560,7 +595,8 @@
             "owner": "openwallet-foundation",
             "repo": "credo-ts",
             "stars": 351
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         }
       ],
       "title": "🎮 Demo's"
@@ -581,7 +617,8 @@
             "owner": "openwallet-foundation",
             "repo": "acapy",
             "stars": 490
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -592,11 +629,12 @@
             "archived": false,
             "id": 626861341,
             "language": null,
-            "last_commit": "2026-08-20T18:38:53Z",
+            "last_commit": "2026-08-28T04:50:39Z",
             "owner": "jruizaranguren",
             "repo": "best-of-digital-identity",
             "stars": 190
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         }
       ],
       "title": "📚 Resources"
@@ -617,7 +655,8 @@
             "owner": "decentralized-identity",
             "repo": "aries-rfcs",
             "stars": 343
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         },
         {
           "node_type": "item",
@@ -632,14 +671,15 @@
             "owner": "hyperledger",
             "repo": "indy-did-method",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T17:38:54.429Z"
         }
       ],
       "title": "📄 Technical Specifications"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:39:29.200Z",
+    "last_updated": "2026-08-28T17:38:54.429Z",
     "original_repository_info": {
       "archived": false,
       "id": 214413588,
