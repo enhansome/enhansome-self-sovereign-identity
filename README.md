@@ -116,11 +116,11 @@ Notable self-sovereign identity products and services that are in production.
 * [OpenID for Verifiable Credentials](https://github.com/openwallet-foundation-labs/oid4vc-ts) ⭐ 29 | 🐛 31 | 🌐 TypeScript | 📅 2026-08-24 - TypeScript library implementation of OpenID4VC and OpenID4VCI protocols.
 * [DCQL](https://github.com/openwallet-foundation-labs/dcql-ts) ⭐ 28 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-01 - TypeScript implementation of the Digital Credentials Query Language.
 * [DIDComm Mediator](https://github.com/openwallet-foundation/didcomm-mediator-credo) ⭐ 18 | 🐛 13 | 🌐 TypeScript | 📅 2026-07-22 - An easy to set-up Aries and DIDComm v1 mediator built on Credo.
-* [mDOC](https://github.com/animo/mdoc) ⭐ 13 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-24 - TypeScript library to work with ISO 18013-5 and ISO 18013-7 mDOC (and mDL).
+* [mDOC](https://github.com/animo/mdoc) ⭐ 13 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-29 - TypeScript library to work with ISO 18013-5 and ISO 18013-7 mDOC (and mDL).
 * [OpenID Federation](https://github.com/openwallet-foundation-labs/openid-federation-ts) ⭐ 8 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-11 - TypeScript implementation of the OpenID Federation.
 * [React Native BLE DIDComm](https://github.com/animo/react-native-ble-didcomm) ⭐ 6 | 🐛 5 | 🌐 TypeScript | 📅 2025-01-06 - SDK for exchanging DIDComm messages over Bluetooth Low Energy for iOS & Android.
 * [Expo mDOC Data Transfer](https://github.com/animo/expo-mdoc-data-transfer) ⭐ 5 | 🐛 13 | 🌐 Kotlin | 📅 2026-05-25 - Expo Module for ISO 18013-5 Data Transfer.
-* [Expo Digital Credentials API](https://github.com/animo/expo-digital-credentials-api) ⭐ 4 | 🐛 3 | 🌐 TypeScript | 📅 2026-05-22 - Expo Module to automatically set up and configure Digital Credentials API for Android apps.
+* [Expo Digital Credentials API](https://github.com/animo/expo-digital-credentials-api) ⭐ 4 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-29 - Expo Module to automatically set up and configure Digital Credentials API for Android apps.
 * [DCQL Playground](https://github.com/animo/dcql-playground) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-04-13 - A playground to test DCQL queries against credentials.
 * [Expo Secure Environment](https://github.com/animo/expo-secure-environment) ⭐ 1 | 🐛 7 | 🌐 TypeScript | 📅 2026-05-22 - Expo Module for cryptographic operations using the devices Secure Environment behind biometric authentication.
 * [mDOC Debugger](https://paradym.id/tools/mdoc) - An online mDOC debugger.
