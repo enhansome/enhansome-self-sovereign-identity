@@ -85,7 +85,7 @@ Software development kits for building an identity wallet.
 
 Notable self-sovereign identity products and services that are in production.
 
-* [VC on Internet Identity](https://github.com/dfinity/internet-identity/blob/main/docs/vc-spec.md) ⭐ 533 | 🐛 91 | 🌐 Rust | 📅 2026-08-28 - A wallet-less and privacy preserving VC protocol built on top Internet Identity on ICP.
+* [VC on Internet Identity](https://github.com/dfinity/internet-identity/blob/main/docs/vc-spec.md) ⭐ 533 | 🐛 90 | 🌐 Rust | 📅 2026-08-28 - A wallet-less and privacy preserving VC protocol built on top Internet Identity on ICP.
 * [esatus SeLF](https://self-ssi.com/en/) - An institutional agent by esatus.
 * [Evernym Products and Services](https://www.evernym.com/products/) - Various self-sovereign identity projects by Evernym, such as a mobile wallet, a mobile wallet SDK and an end-to-end SSI platform.
 * [Lissi Cloud Agent](https://lissi.id/institutions) - An institutional agent by Lissi hosted in the cloud.
@@ -96,7 +96,7 @@ Notable self-sovereign identity products and services that are in production.
 
 ## 🛠 Tools & Technologies
 
-* [Universal Resolver](https://github.com/decentralized-identity/universal-resolver) ⭐ 645 | 🐛 74 | 🌐 Java | 📅 2026-08-28 - Universal DID resolver implementation and method specific drivers.
+* [Universal Resolver](https://github.com/decentralized-identity/universal-resolver) ⭐ 645 | 🐛 74 | 🌐 Java | 📅 2026-08-29 - Universal DID resolver implementation and method specific drivers.
 * [ACA-Py](https://github.com/openwallet-foundation/acapy) ⭐ 490 | 🐛 155 | 🌐 Python | 📅 2026-08-25 - Foundation for building decentralized identity applications and services running in non-mobile environments.
 * [Credo](https://github.com/openwallet-foundation/credo-ts) ⭐ 351 | 🐛 304 | 🌐 TypeScript | 📅 2026-08-27 - TypeScript framework for building decentralized identity and verifiable credential solutions.
 * [IOTA Identity](https://github.com/iotaledger/identity.rs) ⭐ 347 | 🐛 119 | 🌐 Rust | 📅 2026-08-20 - Implementation of the decentralized identity standards such as DIDs and VCs by W3C for the IOTA Tangle.
@@ -226,4 +226,4 @@ To the extent possible under law, Animo Solutions has waived all copyright and r
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
