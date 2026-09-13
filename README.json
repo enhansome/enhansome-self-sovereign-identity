@@ -189,7 +189,7 @@
             "id": 99031144,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T06:31:22Z",
+            "last_commit": "2026-09-13T06:37:48Z",
             "open_issues": 74,
             "owner": "decentralized-identity",
             "repo": "universal-resolver",
@@ -308,8 +308,8 @@
             "id": 701058624,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T16:52:24Z",
-            "open_issues": 66,
+            "last_commit": "2026-09-12T10:14:53Z",
+            "open_issues": 67,
             "owner": "walt-id",
             "repo": "waltid-identity",
             "stars": 309,
@@ -354,7 +354,7 @@
                 "id": 127560664,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T21:29:25Z",
+                "last_commit": "2026-09-13T05:12:33Z",
                 "open_issues": 6,
                 "owner": "decentralized-identity",
                 "repo": "ethr-did-resolver",
@@ -1132,7 +1132,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T09:31:33.649Z",
+    "last_updated": "2026-09-13T10:30:49.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of self-sovereign identity resources.",
