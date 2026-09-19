@@ -85,7 +85,7 @@ Software development kits for building an identity wallet.
 
 Notable self-sovereign identity products and services that are in production.
 
-* [VC on Internet Identity](https://github.com/dfinity/internet-identity/blob/main/docs/vc-spec.md) ⭐ 535 | 🐛 46 | 🌐 Rust | 📅 2026-09-18 - A wallet-less and privacy preserving VC protocol built on top Internet Identity on ICP.
+* [VC on Internet Identity](https://github.com/dfinity/internet-identity/blob/main/docs/vc-spec.md) ⭐ 535 | 🐛 45 | 🌐 Rust | 📅 2026-09-18 - A wallet-less and privacy preserving VC protocol built on top Internet Identity on ICP.
 * [esatus SeLF](https://self-ssi.com/en/) - An institutional agent by esatus.
 * [Evernym Products and Services](https://www.evernym.com/products/) - Various self-sovereign identity projects by Evernym, such as a mobile wallet, a mobile wallet SDK and an end-to-end SSI platform.
 * [Lissi Cloud Agent](https://lissi.id/institutions) - An institutional agent by Lissi hosted in the cloud.
@@ -96,14 +96,14 @@ Notable self-sovereign identity products and services that are in production.
 
 ## 🛠 Tools & Technologies
 
-* [Universal Resolver](https://github.com/decentralized-identity/universal-resolver) ⭐ 644 | 🐛 75 | 🌐 Java | 📅 2026-09-18 - Universal DID resolver implementation and method specific drivers.
+* [Universal Resolver](https://github.com/decentralized-identity/universal-resolver) ⭐ 643 | 🐛 75 | 🌐 Java | 📅 2026-09-19 - Universal DID resolver implementation and method specific drivers.
 * [ACA-Py](https://github.com/openwallet-foundation/acapy) ⭐ 493 | 🐛 151 | 🌐 Python | 📅 2026-09-15 - Foundation for building decentralized identity applications and services running in non-mobile environments.
-* [Credo](https://github.com/openwallet-foundation/credo-ts) ⭐ 352 | 🐛 299 | 🌐 TypeScript | 📅 2026-09-17 - TypeScript framework for building decentralized identity and verifiable credential solutions.
+* [Credo](https://github.com/openwallet-foundation/credo-ts) ⭐ 352 | 🐛 298 | 🌐 TypeScript | 📅 2026-09-18 - TypeScript framework for building decentralized identity and verifiable credential solutions.
 * [IOTA Identity](https://github.com/iotaledger/identity.rs) ⭐ 346 | 🐛 120 | 🌐 Rust | 📅 2026-09-09 - Implementation of the decentralized identity standards such as DIDs and VCs by W3C for the IOTA Tangle.
-* [walt.id Identity Lib](https://github.com/walt-id/waltid-identity) ⭐ 309 | 🐛 67 | 🌐 Kotlin | 📅 2026-09-18 - All-in-one open-source identity and wallet toolkit.
-* [DID Resolver](https://github.com/decentralized-identity/did-resolver) ⭐ 231 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-18 - A simple common interface for JavaScript applications to resolve DID documents from Decentralized Identifiers (DIDs).
-  * [ethr DID Resolver](https://github.com/decentralized-identity/ethr-did-resolver) ⭐ 239 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-17 - Use Ethereum addresses as fully self managed Decentralized Identifiers and wrap them in a DID Document.
-  * [web DID Resolver](https://github.com/decentralized-identity/web-did-resolver) ⭐ 102 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-15 - Use domains accessed through https as Decentralized Identifiers and retrieve an associated DID Document.
+* [walt.id Identity Lib](https://github.com/walt-id/waltid-identity) ⭐ 309 | 🐛 26 | 🌐 Kotlin | 📅 2026-09-18 - All-in-one open-source identity and wallet toolkit.
+* [DID Resolver](https://github.com/decentralized-identity/did-resolver) ⭐ 231 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-19 - A simple common interface for JavaScript applications to resolve DID documents from Decentralized Identifiers (DIDs).
+  * [ethr DID Resolver](https://github.com/decentralized-identity/ethr-did-resolver) ⭐ 239 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-18 - Use Ethereum addresses as fully self managed Decentralized Identifiers and wrap them in a DID Document.
+  * [web DID Resolver](https://github.com/decentralized-identity/web-did-resolver) ⭐ 102 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-19 - Use domains accessed through https as Decentralized Identifiers and retrieve an associated DID Document.
 * [vc-js](https://github.com/digitalbazaar/vc-js) ⭐ 215 | 🐛 29 | 🌐 JavaScript | 📅 2026-02-05 - A JavaScript library for issuing and verifying Verifiable Credentials.
 * [Bifold Wallet](https://github.com/openwallet-foundation/bifold-wallet) ⭐ 204 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-28 - An open source Aries mobile agent build with React Native and Aries Framework JavaScript.
 * [DID](https://github.com/ceramicnetwork/js-did) ⭐ 103 | 🐛 19 | 🌐 TypeScript | 📅 2024-12-19 - A simple library to interact with DIDs that conform to the DID-provider interface.
@@ -144,8 +144,8 @@ High level:
 Low level:
 
 * [ACA-Py Demo](https://github.com/openwallet-foundation/acapy/tree/main/demo) ⭐ 493 | 🐛 151 | 🌐 Python | 📅 2026-09-15 - There are several demos available for ACA-Py mostly (but not only) aimed at developers learning how to deploy an instance of the agent and an ACA-Py controller to implement an application.
-* [Credo Demo](https://github.com/openwallet-foundation/credo-ts/tree/main/demo) ⭐ 352 | 🐛 299 | 🌐 TypeScript | 📅 2026-09-17 - Walk through the Credo flow yourself together with agents Alice and Faber in this demo.
-* [Credo OpenID Demo](https://github.com/openwallet-foundation/credo-ts/tree/main/demo-openid) ⭐ 352 | 🐛 299 | 🌐 TypeScript | 📅 2026-09-17 - Walk through the Credo OpenID flow yourself together with agents Alice and Faber in this demo.
+* [Credo Demo](https://github.com/openwallet-foundation/credo-ts/tree/main/demo) ⭐ 352 | 🐛 298 | 🌐 TypeScript | 📅 2026-09-18 - Walk through the Credo flow yourself together with agents Alice and Faber in this demo.
+* [Credo OpenID Demo](https://github.com/openwallet-foundation/credo-ts/tree/main/demo-openid) ⭐ 352 | 🐛 298 | 🌐 TypeScript | 📅 2026-09-18 - Walk through the Credo OpenID flow yourself together with agents Alice and Faber in this demo.
 
 ## 📡 Networks
 
@@ -226,4 +226,4 @@ To the extent possible under law, Animo Solutions has waived all copyright and r
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
