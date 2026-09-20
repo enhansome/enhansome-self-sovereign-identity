@@ -189,7 +189,7 @@
             "id": 99031144,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T06:32:59Z",
+            "last_commit": "2026-09-20T06:33:11Z",
             "open_issues": 75,
             "owner": "decentralized-identity",
             "repo": "universal-resolver",
@@ -308,7 +308,7 @@
             "id": 701058624,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T19:52:46Z",
+            "last_commit": "2026-09-19T12:33:27Z",
             "open_issues": 26,
             "owner": "walt-id",
             "repo": "waltid-identity",
@@ -354,7 +354,7 @@
                 "id": 127560664,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T15:01:08Z",
+                "last_commit": "2026-09-20T05:35:01Z",
                 "open_issues": 6,
                 "owner": "decentralized-identity",
                 "repo": "ethr-did-resolver",
@@ -402,7 +402,7 @@
             "id": 122224660,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T09:13:28Z",
+            "last_commit": "2026-09-20T06:47:16Z",
             "open_issues": 5,
             "owner": "decentralized-identity",
             "repo": "did-resolver",
@@ -474,7 +474,7 @@
             "open_issues": 19,
             "owner": "ceramicnetwork",
             "repo": "js-did",
-            "stars": 103,
+            "stars": 102,
             "topics": []
           },
           "first_seen": "2026-08-28T17:38:54.429Z"
@@ -555,7 +555,7 @@
             "open_issues": 31,
             "owner": "anoncreds",
             "repo": "anoncreds-rs",
-            "stars": 88,
+            "stars": 89,
             "topics": []
           },
           "first_seen": "2026-08-28T17:38:54.429Z"
@@ -1132,7 +1132,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T09:40:47.898Z",
+    "last_updated": "2026-09-20T10:00:09.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of self-sovereign identity resources.",
