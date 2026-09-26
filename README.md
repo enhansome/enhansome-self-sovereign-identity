@@ -85,7 +85,7 @@ Software development kits for building an identity wallet.
 
 Notable self-sovereign identity products and services that are in production.
 
-* [VC on Internet Identity](https://github.com/dfinity/internet-identity/blob/main/docs/vc-spec.md) ⭐ 535 | 🐛 41 | 🌐 Rust | 📅 2026-09-25 - A wallet-less and privacy preserving VC protocol built on top Internet Identity on ICP.
+* [VC on Internet Identity](https://github.com/dfinity/internet-identity/blob/main/docs/vc-spec.md) ⭐ 535 | 🐛 40 | 🌐 Rust | 📅 2026-09-25 - A wallet-less and privacy preserving VC protocol built on top Internet Identity on ICP.
 * [esatus SeLF](https://self-ssi.com/en/) - An institutional agent by esatus.
 * [Evernym Products and Services](https://www.evernym.com/products/) - Various self-sovereign identity projects by Evernym, such as a mobile wallet, a mobile wallet SDK and an end-to-end SSI platform.
 * [Lissi Cloud Agent](https://lissi.id/institutions) - An institutional agent by Lissi hosted in the cloud.
@@ -96,16 +96,16 @@ Notable self-sovereign identity products and services that are in production.
 
 ## 🛠 Tools & Technologies
 
-* [Universal Resolver](https://github.com/decentralized-identity/universal-resolver) ⭐ 644 | 🐛 75 | 🌐 Java | 📅 2026-09-25 - Universal DID resolver implementation and method specific drivers.
+* [Universal Resolver](https://github.com/decentralized-identity/universal-resolver) ⭐ 644 | 🐛 75 | 🌐 Java | 📅 2026-09-26 - Universal DID resolver implementation and method specific drivers.
 * [ACA-Py](https://github.com/openwallet-foundation/acapy) ⭐ 493 | 🐛 150 | 🌐 Python | 📅 2026-09-24 - Foundation for building decentralized identity applications and services running in non-mobile environments.
 * [Credo](https://github.com/openwallet-foundation/credo-ts) ⭐ 352 | 🐛 292 | 🌐 TypeScript | 📅 2026-09-25 - TypeScript framework for building decentralized identity and verifiable credential solutions.
 * [IOTA Identity](https://github.com/iotaledger/identity.rs) ⭐ 346 | 🐛 120 | 🌐 Rust | 📅 2026-09-09 - Implementation of the decentralized identity standards such as DIDs and VCs by W3C for the IOTA Tangle.
-* [walt.id Identity Lib](https://github.com/walt-id/waltid-identity) ⭐ 311 | 🐛 23 | 🌐 Kotlin | 📅 2026-09-25 - All-in-one open-source identity and wallet toolkit.
-* [DID Resolver](https://github.com/decentralized-identity/did-resolver) ⭐ 232 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-24 - A simple common interface for JavaScript applications to resolve DID documents from Decentralized Identifiers (DIDs).
-  * [ethr DID Resolver](https://github.com/decentralized-identity/ethr-did-resolver) ⭐ 240 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-25 - Use Ethereum addresses as fully self managed Decentralized Identifiers and wrap them in a DID Document.
-  * [web DID Resolver](https://github.com/decentralized-identity/web-did-resolver) ⭐ 102 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-24 - Use domains accessed through https as Decentralized Identifiers and retrieve an associated DID Document.
+* [walt.id Identity Lib](https://github.com/walt-id/waltid-identity) ⭐ 311 | 🐛 22 | 🌐 Kotlin | 📅 2026-09-26 - All-in-one open-source identity and wallet toolkit.
+* [DID Resolver](https://github.com/decentralized-identity/did-resolver) ⭐ 232 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-25 - A simple common interface for JavaScript applications to resolve DID documents from Decentralized Identifiers (DIDs).
+  * [ethr DID Resolver](https://github.com/decentralized-identity/ethr-did-resolver) ⭐ 241 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-25 - Use Ethereum addresses as fully self managed Decentralized Identifiers and wrap them in a DID Document.
+  * [web DID Resolver](https://github.com/decentralized-identity/web-did-resolver) ⭐ 102 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-26 - Use domains accessed through https as Decentralized Identifiers and retrieve an associated DID Document.
 * [vc-js](https://github.com/digitalbazaar/vc-js) ⭐ 215 | 🐛 29 | 🌐 JavaScript | 📅 2026-02-05 - A JavaScript library for issuing and verifying Verifiable Credentials.
-* [Bifold Wallet](https://github.com/openwallet-foundation/bifold-wallet) ⭐ 204 | 🐛 36 | 🌐 TypeScript | 📅 2026-09-24 - An open source Aries mobile agent build with React Native and Aries Framework JavaScript.
+* [Bifold Wallet](https://github.com/openwallet-foundation/bifold-wallet) ⭐ 204 | 🐛 36 | 🌐 TypeScript | 📅 2026-09-25 - An open source Aries mobile agent build with React Native and Aries Framework JavaScript.
 * [DID](https://github.com/ceramicnetwork/js-did) ⭐ 102 | 🐛 19 | 🌐 TypeScript | 📅 2024-12-19 - A simple library to interact with DIDs that conform to the DID-provider interface.
 * [OIDC4VCI](https://github.com/Sphereon-Opensource/OID4VCI) ⭐ 92 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-03 - A TypeScript library for OpenID for Verifiable Credential Issuance by Sphereon.
 * [Universal Registrar](https://github.com/decentralized-identity/universal-registrar) ⭐ 90 | 🐛 6 | 🌐 Java | 📅 2026-09-21 - Universal DID registrar implementation and method specific drivers.
@@ -122,7 +122,7 @@ Notable self-sovereign identity products and services that are in production.
 * [Expo mDOC Data Transfer](https://github.com/animo/expo-mdoc-data-transfer) ⭐ 5 | 🐛 4 | 🌐 Kotlin | 📅 2026-09-21 - Expo Module for ISO 18013-5 Data Transfer.
 * [Expo Digital Credentials API](https://github.com/animo/expo-digital-credentials-api) ⭐ 4 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-25 - Expo Module to automatically set up and configure Digital Credentials API for Android apps.
 * [DCQL Playground](https://github.com/animo/dcql-playground) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-04-13 - A playground to test DCQL queries against credentials.
-* [Expo Secure Environment](https://github.com/animo/expo-secure-environment) ⭐ 1 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-14 - Expo Module for cryptographic operations using the devices Secure Environment behind biometric authentication.
+* [Expo Secure Environment](https://github.com/animo/expo-secure-environment) ⭐ 1 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-25 - Expo Module for cryptographic operations using the devices Secure Environment behind biometric authentication.
 * [mDOC Debugger](https://paradym.id/tools/mdoc) - An online mDOC debugger.
 * [SD-JWT VC Debugger](https://paradym.id/tools/sd-jwt-vc) - An online SD-JWT VC debugger.
 * [sdjwt.co](https://www.sdjwt.co/) - A online tool that allows you to decode, verify, and generate SD-JWTs.
@@ -226,4 +226,4 @@ To the extent possible under law, Animo Solutions has waived all copyright and r
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
