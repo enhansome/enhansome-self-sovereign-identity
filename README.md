@@ -98,9 +98,9 @@ Notable self-sovereign identity products and services that are in production.
 
 * [Universal Resolver](https://github.com/decentralized-identity/universal-resolver) ⭐ 644 | 🐛 73 | 🌐 Java | 📅 2026-10-03 - Universal DID resolver implementation and method specific drivers.
 * [ACA-Py](https://github.com/openwallet-foundation/acapy) ⭐ 493 | 🐛 155 | 🌐 Python | 📅 2026-09-29 - Foundation for building decentralized identity applications and services running in non-mobile environments.
-* [Credo](https://github.com/openwallet-foundation/credo-ts) ⭐ 353 | 🐛 303 | 🌐 TypeScript | 📅 2026-10-02 - TypeScript framework for building decentralized identity and verifiable credential solutions.
+* [Credo](https://github.com/openwallet-foundation/credo-ts) ⭐ 353 | 🐛 300 | 🌐 TypeScript | 📅 2026-10-02 - TypeScript framework for building decentralized identity and verifiable credential solutions.
 * [IOTA Identity](https://github.com/iotaledger/identity.rs) ⭐ 346 | 🐛 120 | 🌐 Rust | 📅 2026-09-30 - Implementation of the decentralized identity standards such as DIDs and VCs by W3C for the IOTA Tangle.
-* [walt.id Identity Lib](https://github.com/walt-id/waltid-identity) ⭐ 313 | 🐛 25 | 🌐 Kotlin | 📅 2026-10-03 - All-in-one open-source identity and wallet toolkit.
+* [walt.id Identity Lib](https://github.com/walt-id/waltid-identity) ⭐ 313 | 🐛 28 | 🌐 Kotlin | 📅 2026-10-03 - All-in-one open-source identity and wallet toolkit.
 * [DID Resolver](https://github.com/decentralized-identity/did-resolver) ⭐ 232 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-03 - A simple common interface for JavaScript applications to resolve DID documents from Decentralized Identifiers (DIDs).
   * [ethr DID Resolver](https://github.com/decentralized-identity/ethr-did-resolver) ⭐ 240 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-03 - Use Ethereum addresses as fully self managed Decentralized Identifiers and wrap them in a DID Document.
   * [web DID Resolver](https://github.com/decentralized-identity/web-did-resolver) ⭐ 102 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-03 - Use domains accessed through https as Decentralized Identifiers and retrieve an associated DID Document.
@@ -144,8 +144,8 @@ High level:
 Low level:
 
 * [ACA-Py Demo](https://github.com/openwallet-foundation/acapy/tree/main/demo) ⭐ 493 | 🐛 155 | 🌐 Python | 📅 2026-09-29 - There are several demos available for ACA-Py mostly (but not only) aimed at developers learning how to deploy an instance of the agent and an ACA-Py controller to implement an application.
-* [Credo Demo](https://github.com/openwallet-foundation/credo-ts/tree/main/demo) ⭐ 353 | 🐛 303 | 🌐 TypeScript | 📅 2026-10-02 - Walk through the Credo flow yourself together with agents Alice and Faber in this demo.
-* [Credo OpenID Demo](https://github.com/openwallet-foundation/credo-ts/tree/main/demo-openid) ⭐ 353 | 🐛 303 | 🌐 TypeScript | 📅 2026-10-02 - Walk through the Credo OpenID flow yourself together with agents Alice and Faber in this demo.
+* [Credo Demo](https://github.com/openwallet-foundation/credo-ts/tree/main/demo) ⭐ 353 | 🐛 300 | 🌐 TypeScript | 📅 2026-10-02 - Walk through the Credo flow yourself together with agents Alice and Faber in this demo.
+* [Credo OpenID Demo](https://github.com/openwallet-foundation/credo-ts/tree/main/demo-openid) ⭐ 353 | 🐛 300 | 🌐 TypeScript | 📅 2026-10-02 - Walk through the Credo OpenID flow yourself together with agents Alice and Faber in this demo.
 
 ## 📡 Networks
 
