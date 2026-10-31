@@ -96,11 +96,11 @@ Notable self-sovereign identity products and services that are in production.
 
 ## 🛠 Tools & Technologies
 
-* [Universal Resolver](https://github.com/decentralized-identity/universal-resolver) ⭐ 643 | 🐛 46 | 🌐 Java | 📅 2026-10-30 - Universal DID resolver implementation and method specific drivers.
-* [ACA-Py](https://github.com/openwallet-foundation/acapy) ⭐ 493 | 🐛 157 | 🌐 Python | 📅 2026-10-28 - Foundation for building decentralized identity applications and services running in non-mobile environments.
-* [Credo](https://github.com/openwallet-foundation/credo-ts) ⭐ 357 | 🐛 238 | 🌐 TypeScript | 📅 2026-10-30 - TypeScript framework for building decentralized identity and verifiable credential solutions.
+* [Universal Resolver](https://github.com/decentralized-identity/universal-resolver) ⭐ 643 | 🐛 46 | 🌐 Java | 📅 2026-10-31 - Universal DID resolver implementation and method specific drivers.
+* [ACA-Py](https://github.com/openwallet-foundation/acapy) ⭐ 493 | 🐛 158 | 🌐 Python | 📅 2026-10-28 - Foundation for building decentralized identity applications and services running in non-mobile environments.
+* [Credo](https://github.com/openwallet-foundation/credo-ts) ⭐ 357 | 🐛 247 | 🌐 TypeScript | 📅 2026-10-31 - TypeScript framework for building decentralized identity and verifiable credential solutions.
 * [IOTA Identity](https://github.com/iotaledger/identity.rs) ⭐ 344 | 🐛 132 | 🌐 Rust | 📅 2026-09-30 - Implementation of the decentralized identity standards such as DIDs and VCs by W3C for the IOTA Tangle.
-* [walt.id Identity Lib](https://github.com/walt-id/waltid-identity) ⭐ 321 | 🐛 31 | 🌐 Kotlin | 📅 2026-10-30 - All-in-one open-source identity and wallet toolkit.
+* [walt.id Identity Lib](https://github.com/walt-id/waltid-identity) ⭐ 322 | 🐛 32 | 🌐 Kotlin | 📅 2026-10-31 - All-in-one open-source identity and wallet toolkit.
 * [DID Resolver](https://github.com/decentralized-identity/did-resolver) ⭐ 232 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-30 - A simple common interface for JavaScript applications to resolve DID documents from Decentralized Identifiers (DIDs).
   * [ethr DID Resolver](https://github.com/decentralized-identity/ethr-did-resolver) ⭐ 241 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-30 - Use Ethereum addresses as fully self managed Decentralized Identifiers and wrap them in a DID Document.
   * [web DID Resolver](https://github.com/decentralized-identity/web-did-resolver) ⭐ 102 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-30 - Use domains accessed through https as Decentralized Identifiers and retrieve an associated DID Document.
@@ -110,7 +110,7 @@ Notable self-sovereign identity products and services that are in production.
 * [OIDC4VCI](https://github.com/Sphereon-Opensource/OID4VCI) ⭐ 93 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-03 - A TypeScript library for OpenID for Verifiable Credential Issuance by Sphereon.
 * [Universal Registrar](https://github.com/decentralized-identity/universal-registrar) ⭐ 90 | 🐛 6 | 🌐 Java | 📅 2026-10-11 - Universal DID registrar implementation and method specific drivers.
 * [AnonCreds RS](https://github.com/hyperledger/anoncreds-rs) ⭐ 89 | 🐛 36 | 🌐 Rust | 📅 2026-01-07 - An implementation of the [AnonCreds credential format](https://hyperledger.github.io/anoncreds-spec/) in Rust.
-* [sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js) ⚠️ Archived - A TypeScript implementation of the SD-JWT & SD-JWT-VC specification from Open Wallet Foundation.
+* [sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js) ⭐ 83 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-27 - A TypeScript implementation of the SD-JWT & SD-JWT-VC specification from Open Wallet Foundation.
 * [did-key.rs](https://github.com/decentralized-identity/did-key.rs) ⭐ 50 | 🐛 8 | 🌐 Rust | 📅 2024-03-18 - Provide basic support for `did:key` methods in Rust.
 * [DID Client (did-io)](https://github.com/digitalbazaar/did-io) ⭐ 46 | 🐛 9 | 🌐 JavaScript | 📅 2026-05-29 - A DID resolution library for JavaScript.
 * [DCQL](https://github.com/openwallet-foundation-labs/dcql-ts) ⚠️ Archived - TypeScript implementation of the Digital Credentials Query Language.
@@ -118,7 +118,7 @@ Notable self-sovereign identity products and services that are in production.
 * [DIDComm Mediator](https://github.com/openwallet-foundation/didcomm-mediator-credo) ⭐ 18 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-26 - An easy to set-up Aries and DIDComm v1 mediator built on Credo.
 * [mDOC](https://github.com/animo/mdoc) ⚠️ Archived - TypeScript library to work with ISO 18013-5 and ISO 18013-7 mDOC (and mDL).
 * [OpenID Federation](https://github.com/openwallet-foundation-labs/openid-federation-ts) ⚠️ Archived - TypeScript implementation of the OpenID Federation.
-* [Expo mDOC Data Transfer](https://github.com/animo/expo-mdoc-data-transfer) ⭐ 6 | 🐛 10 | 🌐 Kotlin | 📅 2026-10-26 - Expo Module for ISO 18013-5 Data Transfer.
+* [Expo mDOC Data Transfer](https://github.com/animo/expo-mdoc-data-transfer) ⭐ 6 | 🐛 12 | 🌐 Kotlin | 📅 2026-10-31 - Expo Module for ISO 18013-5 Data Transfer.
 * [React Native BLE DIDComm](https://github.com/animo/react-native-ble-didcomm) ⭐ 6 | 🐛 5 | 🌐 TypeScript | 📅 2025-01-06 - SDK for exchanging DIDComm messages over Bluetooth Low Energy for iOS & Android.
 * [Expo Digital Credentials API](https://github.com/animo/expo-digital-credentials-api) ⭐ 4 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-28 - Expo Module to automatically set up and configure Digital Credentials API for Android apps.
 * [DCQL Playground](https://github.com/animo/dcql-playground) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-04-13 - A playground to test DCQL queries against credentials.
@@ -143,9 +143,9 @@ High level:
 
 Low level:
 
-* [ACA-Py Demo](https://github.com/openwallet-foundation/acapy/tree/main/demo) ⭐ 493 | 🐛 157 | 🌐 Python | 📅 2026-10-28 - There are several demos available for ACA-Py mostly (but not only) aimed at developers learning how to deploy an instance of the agent and an ACA-Py controller to implement an application.
-* [Credo Demo](https://github.com/openwallet-foundation/credo-ts/tree/main/demo) ⭐ 357 | 🐛 238 | 🌐 TypeScript | 📅 2026-10-30 - Walk through the Credo flow yourself together with agents Alice and Faber in this demo.
-* [Credo OpenID Demo](https://github.com/openwallet-foundation/credo-ts/tree/main/demo-openid) ⭐ 357 | 🐛 238 | 🌐 TypeScript | 📅 2026-10-30 - Walk through the Credo OpenID flow yourself together with agents Alice and Faber in this demo.
+* [ACA-Py Demo](https://github.com/openwallet-foundation/acapy/tree/main/demo) ⭐ 493 | 🐛 158 | 🌐 Python | 📅 2026-10-28 - There are several demos available for ACA-Py mostly (but not only) aimed at developers learning how to deploy an instance of the agent and an ACA-Py controller to implement an application.
+* [Credo Demo](https://github.com/openwallet-foundation/credo-ts/tree/main/demo) ⭐ 357 | 🐛 247 | 🌐 TypeScript | 📅 2026-10-31 - Walk through the Credo flow yourself together with agents Alice and Faber in this demo.
+* [Credo OpenID Demo](https://github.com/openwallet-foundation/credo-ts/tree/main/demo-openid) ⭐ 357 | 🐛 247 | 🌐 TypeScript | 📅 2026-10-31 - Walk through the Credo OpenID flow yourself together with agents Alice and Faber in this demo.
 
 ## 📡 Networks
 
@@ -156,7 +156,7 @@ Low level:
 
 Resources that are not about specific concepts such as meetups, newsletters, etc.
 
-* [Become a ACA-Py Developer](https://github.com/openwallet-foundation/acapy/tree/main/docs/gettingStarted) ⭐ 493 | 🐛 157 | 🌐 Python | 📅 2026-10-28 - Quick course on how to get started with ACA-Py.
+* [Become a ACA-Py Developer](https://github.com/openwallet-foundation/acapy/tree/main/docs/gettingStarted) ⭐ 493 | 🐛 158 | 🌐 Python | 📅 2026-10-28 - Quick course on how to get started with ACA-Py.
 * [Best-of-digital-identity](https://github.com/jruizaranguren/best-of-digital-identity) ⭐ 195 | 🐛 4 | 📅 2026-10-30 - Ranking, popularity and activity status of open-source digital identity projects, including decentralized identity projects.
 * [In Search of Self-Sovereign Identity Leveraging Blockchain technology](https://ieeexplore.ieee.org/document/8776589) - Article about finding a mathematical definition for SSI.
 * [Verifiable Credentials Use Cases](https://www.w3.org/TR/vc-use-cases/) - Concrete example scenarios that make use of Verifiable Credentials.
@@ -175,7 +175,7 @@ Resources that are not about specific concepts such as meetups, newsletters, etc
 
 ## 📄 Technical Specifications
 
-* [Hyperledger Aries RFCs](https://github.com/decentralized-identity/aries-rfcs/blob/main/index.md) ⭐ 343 | 🐛 60 | 🌐 Python | 📅 2026-08-11 - Specifications of Aries protocols and standards.
+* [Hyperledger Aries RFCs](https://github.com/decentralized-identity/aries-rfcs/blob/main/index.md) ⭐ 343 | 🐛 62 | 🌐 Python | 📅 2026-08-11 - Specifications of Aries protocols and standards.
 * [Hyperledger Indy Improvement Proposals](https://github.com/hyperledger/indy-hipe/blob/master/index.md) ⚠️ Archived - Specifications of Indy protocols and standards.
 * [SD-JWT](https://datatracker.ietf.org/doc/draft-ietf-oauth-selective-disclosure-jwt/) - Specification for selective disclosure for JWT based verifiable credentials.
 * [SD-JWT-VC](https://datatracker.ietf.org/doc/draft-ietf-oauth-sd-jwt-vc/) - Specification for using SD-JWT as verifiable credentials.
@@ -226,4 +226,4 @@ To the extent possible under law, Animo Solutions has waived all copyright and r
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
